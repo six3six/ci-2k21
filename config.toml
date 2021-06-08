@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://ci-2k21.helloedit.eu"
+languageCode = "fr-fr"
 title = "CI 2k21"
 sectionPagesMenu = "main"
