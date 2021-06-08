@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "CI 2k21"
+sectionPagesMenu = "main"

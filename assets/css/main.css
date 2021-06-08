@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav .active {
+    @apply bg-gray-900 text-white !important
+}
+
+#search {
+    background: url("/img/search.svg") 12px center no-repeat;
+    background-size: 17px;
+    padding-inline-start: 38px;
+}

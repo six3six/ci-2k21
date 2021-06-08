@@ -1,0 +1,100 @@
+{{ define "main" }}
+    <section>
+
+        <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 mt-11">
+            <div class="relative py-2 mb-5 align-middle inline-block min-w-full">
+                <input class="w-full shadow rounded-lg border-0 p-3 focus:outline-none focus:ring-4"
+                       id="search"
+                       placeholder="Rechercher un nom ou un groupe..."
+                       type="search" />
+            </div>
+
+            <div class="flex flex-col">
+                <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
+                    <div class="py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8">
+                        <div style="max-height: 80vh" class="shadow overflow-y-scroll border-b border-gray-200 sm:rounded-lg">
+                            <table class="min-w-full divide-y divide-gray-200">
+                                <thead class="sticky top-0 bg-gray-50">
+                                <tr>
+                                    <th scope="col"
+                                        class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                                        Nom et Prénom
+                                    </th>
+                                    <th scope="col"
+                                        class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                                        Groupe
+                                    </th>
+                                    <th scope="col"
+                                        class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                                        Salle
+                                    </th>
+                                </tr>
+                                </thead>
+                                <tbody class="bg-white divide-y divide-gray-200">
+                                {{ range $.Site.Data.perf }}
+                                    {{ $splited := split (lower .name) " " }}
+                                    <tr>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="flex items-center">
+                                                <div class="flex-shrink-0 h-10 w-10">
+                                                    <img class="h-10 w-10 rounded-full"
+                                                         src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+                                                         alt="">
+                                                </div>
+                                                <div class="ml-4">
+                                                    <div class="text-sm font-medium text-gray-900">
+                                                        {{ .name }}
+                                                    </div>
+                                                    <div class="text-sm text-gray-500">
+                                                        {{ index $splited 0 }}.{{ delimit (after 1 $splited) "-" }}
+                                                        @edu.esiee.fr
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm text-gray-900 font-semibold">{{ .group }}</div>
+                                            <div class="text-sm text-gray-500">{{ cond (eq .isStudent true) "Élève" "Intégration" }}</div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <span class="px-2 inline-flex text-sm leading-5 font-semibold rounded-full bg-green-100 text-green-800">
+                                              {{ .room }}
+                                            </span>
+                                        </td>
+                                    </tr>
+                                {{ end }}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+{{ end }}
+
+{{ define "script" }}
+    <script>
+        const search = document.getElementById("search");
+        const tr = document.querySelectorAll("tbody tr")
+
+        search.addEventListener("input", searchTable)
+
+        function searchTable(event) {
+            const query = event.target.value.toLowerCase();
+
+            for (let i = 0; i < tr.length; i++) {
+                const td = tr[i].getElementsByTagName("td");
+
+                for (let j = 0; j < 2; j++) {
+                    if (td[j].textContent.toLowerCase().includes(query)) {
+                        tr[i].classList.remove("hidden")
+                        break;
+                    } else {
+                        tr[i].classList.add("hidden")
+                    }
+                }
+            }
+        }
+    </script>
+{{ end }}
