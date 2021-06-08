@@ -21,4 +21,5 @@ La plupart des salles comportent 4 numéros (par exemple **1406**)
 - **Le premier chiffre indique l'EPI** dans lequel se situe la salle. Si c'est 0, la salle ne se trouve pas dans les EPI 
   mais à gauche de la rue.
 - **Le deuxième chiffre indique l'étage** auquel se rendre. Attention, le rez-de-chaussée et numéroté 1 et pas 0.
-- **Le dernier nombre indique le numéro de la salle** à l'étage. S'il est pair, c'est sur votre gauche, sinon à droite.
+- **Le troisième chiffre indique le côté** du couloir. Si c'est 0, c'est sur votre gauche, si c'est 5 c'est à droite.
+- **Le dernier chiffre indique la salle**, tu n'as plus d'excuses pour te tromper de salle.
