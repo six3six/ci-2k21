@@ -7,14 +7,10 @@
 
 <title>{{ .Site.Title }} :: {{ .Title }}</title>
 
-{{ $styles := resources.Get "css/main.css" | postCSS }}
+{{ $styles := resources.Get "css/main.css" | resources.PostCSS }}
 
-<!-- The .Site.IsServer flag is true when running the live reload server. When building for production, this is false.
-This allows to only minify and purge the CSS when building the production site. -->
-
-{{ if .Site.IsServer }}
-    <link rel="stylesheet" href="{{ $styles.RelPermalink }}"/>
-{{ else }}
-    {{ $styles := $styles | minify | fingerprint | resources.PostProcess }}
-    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}"/>
+{{ if hugo.IsProduction }}
+    {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
 {{ end }}
+
+<link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
