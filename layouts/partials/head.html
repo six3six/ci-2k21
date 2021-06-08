@@ -11,6 +11,8 @@
 
 {{ if hugo.IsProduction }}
     {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
+    <link href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" rel="stylesheet"/>
 {{ end }}
 
 <link href="{{ $styles.RelPermalink }}" rel="stylesheet"/>
+
