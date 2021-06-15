@@ -1,5 +1,5 @@
 ---
-title: Mais où manger ?
+title: Où manger ?
 description: Et où manger bien s'il vous plait !
 ---
 
