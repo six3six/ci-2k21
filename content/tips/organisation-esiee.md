@@ -1,7 +1,14 @@
 ---
-title: Comment trouver une salle à l'ESIEE ?
-description: Car parfois c'est vrai que c'est salement compliqué.
+title: L'organisation de l'ESIEE Paris
+breadcrumb: Organisation de l'ESIEE
+description: Car parfois c'est vrai que c'est compliqué.
 ---
+# L'Organisation de l'école
+
+L'école est organisé en plusieurs parties dans lesquelles vous allez apprendre à vous repérer. Voici un petit topo des 
+choses à savoir.
+
+![Plan de ESIEE Paris](/img/Plan-ESIEE.svg)
 
 # Trouver une salle à l'école
 
