@@ -18,7 +18,7 @@ quelques trucs à savoir pour vous repérer quand quelqu'un vous criera dessus d
 ## L'organisation des salles
 
 La grande allée traversant l'école en longueur se nomme la rue. Le long de cette allée se trouve divers bâtiments 
-accolés le long de l'école: ce sont les EPI et ils abritent divers département et laboratoires (département de maths,
+accolés le long de l'école: ce sont les EPI et ils abritent divers départements et laboratoires (département de maths,
 informatique...).
 
 ## La numérotation

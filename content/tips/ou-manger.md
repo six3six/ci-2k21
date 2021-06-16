@@ -48,17 +48,13 @@ Toujours sympa pour alléger sa conscience.
 
 ### McDonald's
 
-Si tu as vraiment la foi ou une voiture c'est mieux.
+On ne le présente plus. Mais malheureusement un peu loin, donc seulement si tu as vraiment la foi (ou une voiture hein).
 
 [En savoir plus](https://www.restaurants.mcdonalds.fr/mcdonalds-champs-sur-marne)
 
-### La cantine de l'ESIEE
+---
 
-Hypothétique nouvelle cantine de l'ESIEE gérée par le CROUS, on l'attend depuis un an. Ça serait quand même cool non ?
-
-#### Le bon conseil de Habib
-
-Pour manger vos plats, prenez à emporter et rendez-vous dans la cantine de l'ESIEE. En plus, si le temps le permet, vous
-pourriez profiter de la terrasse de l'école. C'est ça la _dolce vita_ d'étudiant.
+Pour manger vos plats, prenez à emporter et allez vous installer dans la cantine de l'ESIEE. En plus, si le temps le 
+permet, vous pourriez profiter de la terrasse de l'école. Oui, ça c'est vraiment classe.
 
 {{< openstreetmap mapName="restauration-autour-de-lesiee_622470" miniMap="false" >}}
