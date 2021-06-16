@@ -1,3002 +1,3502 @@
 [
   {
-    "name": "Gabrielle Koepp",
-    "group": "Rowe Group",
-    "room": "1390",
+    "name": "Alysha Gorczany",
+    "room": 3869,
+    "subject": "Von, Luettgen and Morar",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Warren Ruecker",
-    "group": "Bogisich - Hackett",
-    "room": "1951",
-    "isStudent": false
-  },
-  {
-    "name": "Thomas Eichmann",
-    "group": "Grimes and Sons",
-    "room": "1461",
-    "isStudent": false
-  },
-  {
-    "name": "Evans Toy",
-    "group": "Jast, Lubowitz and Ankunding",
-    "room": "1651",
+    "name": "Wayne Heathcote",
+    "room": 4203,
+    "subject": "Smith LLC",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Baby Murphy",
-    "group": "Jenkins, Bartoletti and Feil",
-    "room": "1072",
-    "isStudent": false
+    "name": "Meda Block Sr.",
+    "room": 5341,
+    "subject": "Greenfelder, Emard and Gerlach",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Gilbert Baumbach",
-    "group": "Runolfsson, Turcotte and Goodwin",
-    "room": "1020",
+    "name": "Winnifred Leannon",
+    "room": 4288,
+    "subject": "Jacobs, Kassulke and Koelpin",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Stephan Quitzon",
-    "group": "Frami, Tremblay and Cronin",
-    "room": "1135",
+    "name": "Jazmyne Botsford PhD",
+    "room": 4612,
+    "subject": "Lubowitz Inc",
+    "group": "♥️",
     "isStudent": false
-  },
-  {
-    "name": "Karley Turcotte",
-    "group": "Batz - Hegmann",
-    "room": "1612",
-    "isStudent": true
   },
   {
-    "name": "Josie Bruen",
-    "group": "Swaniawski, Schroeder and Marvin",
-    "room": "1922",
+    "name": "Ms. Earline Zulauf",
+    "room": 2532,
+    "subject": "Runte Group",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Skyla Von IV",
-    "group": "Nicolas, Boyer and Abbott",
-    "room": "1062",
+    "name": "Jenifer Emard",
+    "room": 2154,
+    "subject": "Runolfsdottir, Mosciski and Bechtelar",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Leilani Veum",
-    "group": "Cummings, Barton and Heathcote",
-    "room": "1723",
-    "isStudent": false
+    "name": "Jennifer Cormier",
+    "room": 4342,
+    "subject": "Mueller - Gulgowski",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Miss Annabel Langosh",
-    "group": "Klocko, Cartwright and Wisozk",
-    "room": "1457",
+    "name": "Kennith Turner",
+    "room": 5596,
+    "subject": "Windler LLC",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Zachariah Reilly",
-    "group": "Wilkinson, Kilback and Maggio",
-    "room": "1621",
-    "isStudent": false
+    "name": "Domenic Quitzon MD",
+    "room": 2732,
+    "subject": "Kirlin - Miller",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Marian Legros III",
-    "group": "Williamson, Walsh and Effertz",
-    "room": "1198",
+    "name": "Mariana Shields",
+    "room": 2325,
+    "subject": "Hilpert - Nitzsche",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Alf Gusikowski",
-    "group": "Zieme, Tremblay and Legros",
-    "room": "1270",
+    "name": "Josiane Lind",
+    "room": 3719,
+    "subject": "Trantow and Sons",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Monique Crooks",
-    "group": "O'Hara, Boyle and Sipes",
-    "room": "1830",
+    "name": "Emerald Brekke",
+    "room": 3448,
+    "subject": "Kovacek, Hodkiewicz and Bosco",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Cortez Russel",
-    "group": "Cruickshank, Bashirian and Schultz",
-    "room": "1494",
+    "name": "Mr. Russ Bruen",
+    "room": 4964,
+    "subject": "Ernser LLC",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Aracely Collier",
-    "group": "Morar LLC",
-    "room": "1607",
+    "name": "Glenda King",
+    "room": 2874,
+    "subject": "Crist, Brown and Kulas",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Elda Fadel DVM",
-    "group": "Gulgowski Group",
-    "room": "1415",
+    "name": "Elise Johns",
+    "room": 2165,
+    "subject": "Lang Inc",
+    "group": "♣️",
     "isStudent": true
+  },
+  {
+    "name": "Nyasia Sporer",
+    "room": 2821,
+    "subject": "Swaniawski LLC",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Gabriella White",
-    "group": "Pacocha LLC",
-    "room": "1126",
+    "name": "Brianne Lesch PhD",
+    "room": 4412,
+    "subject": "Altenwerth - Rohan",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Jonatan Reinger",
-    "group": "Hodkiewicz, Barton and Mertz",
-    "room": "1570",
+    "name": "Mr. Heidi Murphy",
+    "room": 5171,
+    "subject": "Senger Inc",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Vita Quigley",
-    "group": "Hamill and Sons",
-    "room": "1224",
-    "isStudent": false
+    "name": "Telly Boyle",
+    "room": 2534,
+    "subject": "Macejkovic Inc",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Andreanne Welch V",
-    "group": "Volkman, Bashirian and Kunze",
-    "room": "1973",
+    "name": "Kip Zemlak",
+    "room": 4530,
+    "subject": "Dickens - O'Conner",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Bradley Schmeler",
-    "group": "Spinka - Hermann",
-    "room": "1975",
+    "name": "Miss Lonnie Kilback",
+    "room": 2080,
+    "subject": "Lemke LLC",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Giovani Eichmann",
-    "group": "Lindgren, Keebler and Wehner",
-    "room": "1727",
+    "name": "Miss Sofia Carroll",
+    "room": 5840,
+    "subject": "Schmitt Group",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Nat Glover",
-    "group": "Rath - Rosenbaum",
-    "room": "1273",
+    "name": "Jeremy Satterfield",
+    "room": 3147,
+    "subject": "Kassulke - Stehr",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Ashlynn Schuppe",
-    "group": "Schimmel and Sons",
-    "room": "1036",
-    "isStudent": true
+    "name": "Bertrand Vandervort",
+    "room": 5089,
+    "subject": "Heidenreich Group",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Maymie Murray",
-    "group": "Quigley Inc",
-    "room": "1835",
+    "name": "Marquis Kihn",
+    "room": 5935,
+    "subject": "Fritsch, Reinger and Beahan",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Eldon Tremblay",
-    "group": "Hudson - Kris",
-    "room": "1335",
+    "name": "Katelin Ryan",
+    "room": 5880,
+    "subject": "Kassulke, Lemke and Romaguera",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Theron Flatley V",
-    "group": "Pfeffer, Greenfelder and Heidenreich",
-    "room": "1293",
-    "isStudent": false
+    "name": "Ron Roob",
+    "room": 2356,
+    "subject": "Kutch, Jacobs and Anderson",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Alayna Kub",
-    "group": "Corkery Group",
-    "room": "1397",
-    "isStudent": false
+    "name": "Jadon Luettgen",
+    "room": 4450,
+    "subject": "Doyle, Nicolas and Wilderman",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Liam Herman",
-    "group": "Lebsack - Renner",
-    "room": "1547",
-    "isStudent": false
+    "name": "Ena Barton",
+    "room": 2837,
+    "subject": "Medhurst - Dicki",
+    "group": "♦️",
+    "isStudent": true
+  },
+  {
+    "name": "Domenic Mohr",
+    "room": 2951,
+    "subject": "Heathcote - Dickinson",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Sydney Veum",
-    "group": "Bahringer, Borer and Jakubowski",
-    "room": "1229",
+    "name": "Eve Herman",
+    "room": 3543,
+    "subject": "Kovacek - Ferry",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Mr. Natasha Schneider",
-    "group": "Wisozk - Greenholt",
-    "room": "1673",
-    "isStudent": true
+    "name": "Rodrick Larkin",
+    "room": 5785,
+    "subject": "Stracke - Goyette",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Neha McDermott",
-    "group": "Huels, Ward and Armstrong",
-    "room": "1480",
+    "name": "Oleta Kub III",
+    "room": 5597,
+    "subject": "Stokes - Reichert",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Hiram Kemmer",
-    "group": "Adams - Kovacek",
-    "room": "1295",
-    "isStudent": true
+    "name": "Jose Stanton PhD",
+    "room": 5956,
+    "subject": "Hessel, West and Jacobs",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Ludie Pfeffer",
-    "group": "Upton and Sons",
-    "room": "1094",
+    "name": "Lois Gorczany",
+    "room": 2358,
+    "subject": "Hauck, Bashirian and Lakin",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Annamae Lakin",
-    "group": "Reynolds LLC",
-    "room": "1499",
-    "isStudent": true
+    "name": "Lauriane Bergnaum",
+    "room": 3773,
+    "subject": "Emmerich - Anderson",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Ruth Schmitt III",
-    "group": "Cartwright - Rice",
-    "room": "1791",
+    "name": "Ahmad Mertz",
+    "room": 3101,
+    "subject": "Crist - Mueller",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Jordon Collins",
-    "group": "Herman - Blick",
-    "room": "1893",
+    "name": "Estell Runolfsdottir DVM",
+    "room": 5580,
+    "subject": "Heathcote Group",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Wilton Hilll",
-    "group": "Walter Inc",
-    "room": "1223",
+    "name": "Lesly Boyle",
+    "room": 5947,
+    "subject": "Hoppe and Sons",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Kian Haley",
-    "group": "Bartoletti, Boyle and Kautzer",
-    "room": "1827",
+    "name": "Lizzie O'Hara",
+    "room": 3837,
+    "subject": "Mayert, Morissette and Smitham",
+    "group": "♠️",
     "isStudent": false
-  },
-  {
-    "name": "Miss Abbie Gibson",
-    "group": "Koss LLC",
-    "room": "1628",
-    "isStudent": true
   },
   {
-    "name": "Heather Parisian",
-    "group": "Greenfelder, Wisozk and Harber",
-    "room": "1883",
+    "name": "Ross Ondricka PhD",
+    "room": 4215,
+    "subject": "Kihn, Gorczany and Kiehn",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Alverta Hickle Sr.",
-    "group": "Macejkovic, Medhurst and Johnston",
-    "room": "1202",
+    "name": "Maia Durgan",
+    "room": 5407,
+    "subject": "Deckow - Kerluke",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Collin Mohr",
-    "group": "Wintheiser Inc",
-    "room": "1680",
+    "name": "Willie Nicolas",
+    "room": 3106,
+    "subject": "Pollich Group",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Gene Hyatt",
-    "group": "Cruickshank - Rogahn",
-    "room": "1793",
+    "name": "Lenore Hodkiewicz PhD",
+    "room": 2169,
+    "subject": "Mosciski, Labadie and Schumm",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Clementine Heathcote",
-    "group": "Roob - Tromp",
-    "room": "1439",
+    "name": "Leopold Bins",
+    "room": 5053,
+    "subject": "Johnston LLC",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Antonetta Block",
-    "group": "Kautzer, Aufderhar and Bradtke",
-    "room": "1409",
+    "name": "Natalia Thompson",
+    "room": 3889,
+    "subject": "Wuckert Group",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Otis Conn",
-    "group": "Rogahn - Donnelly",
-    "room": "1606",
+    "name": "Arlie Hilll",
+    "room": 4709,
+    "subject": "Shanahan, Runte and Johnson",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Janie Bartoletti",
-    "group": "Block, Walter and Bode",
-    "room": "1999",
+    "name": "Brian Paucek",
+    "room": 3033,
+    "subject": "Senger - Powlowski",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Rusty Veum",
-    "group": "Haley, Schiller and Brown",
-    "room": "1816",
+    "name": "Abdullah Cartwright DVM",
+    "room": 5102,
+    "subject": "Barrows - Zboncak",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Earlene VonRueden",
-    "group": "Goyette - Feil",
-    "room": "1078",
+    "name": "Derrick Weimann",
+    "room": 2252,
+    "subject": "O'Connell, Hoppe and Morar",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Johnpaul Herzog",
-    "group": "Batz - Wintheiser",
-    "room": "1839",
+    "name": "Edwin Mitchell DVM",
+    "room": 3387,
+    "subject": "Kozey LLC",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Everett Russel",
-    "group": "Boyle LLC",
-    "room": "1500",
-    "isStudent": true
+    "name": "Reginald Towne",
+    "room": 5844,
+    "subject": "Russel Inc",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Emile Altenwerth",
-    "group": "Padberg Inc",
-    "room": "1594",
-    "isStudent": true
+    "name": "Casey Wolf",
+    "room": 5259,
+    "subject": "Jerde, Doyle and Swift",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Peyton Wyman",
-    "group": "Ernser, Kihn and Fahey",
-    "room": "1963",
+    "name": "Foster Kunze",
+    "room": 4044,
+    "subject": "Effertz, Brown and Lind",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Cleveland Willms",
-    "group": "Schowalter LLC",
-    "room": "1912",
+    "name": "Chanelle Fahey",
+    "room": 3704,
+    "subject": "Price - Gorczany",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Aric Ryan",
-    "group": "Borer Inc",
-    "room": "1787",
+    "name": "Kobe Mosciski",
+    "room": 2300,
+    "subject": "Buckridge - McKenzie",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Mr. Lila Powlowski",
-    "group": "Becker and Sons",
-    "room": "1550",
+    "name": "Glenna Beer",
+    "room": 5089,
+    "subject": "Ziemann - Rutherford",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Anais Smith",
-    "group": "Beer - Lynch",
-    "room": "1252",
+    "name": "Sharon Schmidt",
+    "room": 2823,
+    "subject": "Veum - Wehner",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Kayli Sipes",
-    "group": "Rolfson Group",
-    "room": "1841",
-    "isStudent": true
+    "name": "Donnie Wolf",
+    "room": 4779,
+    "subject": "Collins - Corkery",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Frederic Schowalter",
-    "group": "Luettgen and Sons",
-    "room": "1594",
+    "name": "Markus Monahan",
+    "room": 2358,
+    "subject": "Durgan Group",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Ephraim Labadie",
-    "group": "Ruecker, Rippin and Kuhic",
-    "room": "1734",
-    "isStudent": true
+    "name": "Billy Corkery",
+    "room": 4479,
+    "subject": "Hoeger, Huels and Schuster",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Lula Kulas IV",
-    "group": "Bergstrom - Braun",
-    "room": "1649",
+    "name": "Amelia Goyette",
+    "room": 3577,
+    "subject": "Lind LLC",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Miss Jessyca Lang",
-    "group": "Ziemann, Christiansen and Adams",
-    "room": "1831",
+    "name": "Melvina Larkin",
+    "room": 5153,
+    "subject": "Schmitt, Heller and McGlynn",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Mariana Wyman",
-    "group": "Gutmann - Murphy",
-    "room": "1886",
-    "isStudent": false
+    "name": "Nola Collins I",
+    "room": 4641,
+    "subject": "King, Buckridge and Kuhic",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Daphnee Bednar",
-    "group": "Johnson - Cummerata",
-    "room": "1340",
+    "name": "Winona Greenfelder II",
+    "room": 4391,
+    "subject": "Steuber Group",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Ms. Cesar Schaefer",
-    "group": "Ferry, Predovic and Harvey",
-    "room": "1057",
+    "name": "Talia Satterfield",
+    "room": 3837,
+    "subject": "Murray - Deckow",
+    "group": "♣️",
     "isStudent": false
-  },
-  {
-    "name": "Vada Buckridge",
-    "group": "Schamberger, Harris and Treutel",
-    "room": "1896",
-    "isStudent": true
-  },
-  {
-    "name": "Merl Stamm",
-    "group": "Brekke - Mante",
-    "room": "1388",
-    "isStudent": true
   },
   {
-    "name": "Omari Schaden",
-    "group": "Abshire LLC",
-    "room": "1846",
+    "name": "Manuela Rodriguez",
+    "room": 4085,
+    "subject": "Hyatt - Boehm",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Lina Bechtelar",
-    "group": "Rosenbaum and Sons",
-    "room": "1043",
+    "name": "Lexus Windler",
+    "room": 5272,
+    "subject": "Goyette - Larson",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Jules Schuppe",
-    "group": "Bashirian - Senger",
-    "room": "1084",
-    "isStudent": false
+    "name": "Jalon Jast",
+    "room": 5512,
+    "subject": "Cartwright and Sons",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Abraham Cartwright",
-    "group": "Schimmel, Balistreri and Harvey",
-    "room": "1725",
+    "name": "Deja VonRueden",
+    "room": 5805,
+    "subject": "Fisher, Hane and Lehner",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Simone Kuhlman",
-    "group": "Shields - Pfannerstill",
-    "room": "1556",
+    "name": "Estel Cronin",
+    "room": 5826,
+    "subject": "Douglas - Crooks",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Laurel Hudson",
-    "group": "Thompson - Kulas",
-    "room": "1468",
-    "isStudent": true
+    "name": "Kevin Fay",
+    "room": 3495,
+    "subject": "Spencer, Beatty and Swift",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Davon Gusikowski",
-    "group": "Krajcik - Towne",
-    "room": "1215",
+    "name": "Ciara Nicolas MD",
+    "room": 3908,
+    "subject": "Gerhold - Legros",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Keyshawn O'Kon",
-    "group": "Will Inc",
-    "room": "1171",
+    "name": "Zander Sipes",
+    "room": 5656,
+    "subject": "Dare - Schowalter",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Hester Rogahn",
-    "group": "Bogan Inc",
-    "room": "1843",
+    "name": "Kaycee Huels",
+    "room": 3506,
+    "subject": "Pfeffer, Brown and Steuber",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Lillian Marks",
-    "group": "Borer - Mueller",
-    "room": "1018",
+    "name": "Jadon Hauck",
+    "room": 4955,
+    "subject": "Pouros, West and Weimann",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Lorna MacGyver",
-    "group": "Pollich - Lesch",
-    "room": "1005",
+    "name": "Iva Jacobi",
+    "room": 5033,
+    "subject": "Schuster and Sons",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Ms. Zander Hermann",
-    "group": "Pfeffer - Oberbrunner",
-    "room": "1840",
+    "name": "Dr. Freeman Greenfelder",
+    "room": 3928,
+    "subject": "MacGyver Group",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Brenden D'Amore",
-    "group": "Hills - Rohan",
-    "room": "1588",
+    "name": "Dr. Carmen Sipes",
+    "room": 4297,
+    "subject": "Hagenes LLC",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Sandra Altenwerth",
-    "group": "Waters, King and Weissnat",
-    "room": "1131",
+    "name": "Jarod Becker",
+    "room": 2757,
+    "subject": "Green - Stamm",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Mae Rippin MD",
-    "group": "Gottlieb Inc",
-    "room": "1382",
+    "name": "Brendon Bergnaum",
+    "room": 3157,
+    "subject": "Bernhard - Pacocha",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Abbigail Weissnat",
-    "group": "Bartell, Douglas and Gleason",
-    "room": "1625",
+    "name": "Lucy Farrell",
+    "room": 2754,
+    "subject": "Effertz - Kuhn",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Adelle Wisoky",
-    "group": "Walsh Inc",
-    "room": "1007",
-    "isStudent": true
+    "name": "Walton Rosenbaum",
+    "room": 2728,
+    "subject": "Prosacco - Beer",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Genoveva Balistreri DDS",
-    "group": "Stokes, Padberg and Predovic",
-    "room": "1856",
+    "name": "Christian Bradtke",
+    "room": 2237,
+    "subject": "Dickens - Hartmann",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Ole Hegmann",
-    "group": "Hackett - Streich",
-    "room": "1884",
+    "name": "Jeremy Jerde",
+    "room": 4797,
+    "subject": "Reilly - Von",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Delilah Boyle",
-    "group": "Kris - Braun",
-    "room": "1060",
+    "name": "Loyce Parisian",
+    "room": 4745,
+    "subject": "Watsica, Bode and Tromp",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Dulce Veum",
-    "group": "O'Connell, Doyle and Auer",
-    "room": "1543",
+    "name": "Rebecca Hills",
+    "room": 2427,
+    "subject": "Spencer - Cole",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Prince Morissette",
-    "group": "Mohr - Kuhlman",
-    "room": "1789",
+    "name": "Gisselle Mohr",
+    "room": 3344,
+    "subject": "Carroll LLC",
+    "group": "♥️",
     "isStudent": false
+  },
+  {
+    "name": "Shakira Thiel",
+    "room": 3695,
+    "subject": "Deckow, Welch and Bruen",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Golda Upton",
-    "group": "Crooks Inc",
-    "room": "1605",
+    "name": "Saul MacGyver",
+    "room": 5306,
+    "subject": "Monahan, Abbott and Welch",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Shanna Wuckert",
-    "group": "Carter and Sons",
-    "room": "1902",
-    "isStudent": true
+    "name": "Ryley Halvorson",
+    "room": 5630,
+    "subject": "Miller - Steuber",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Adam Bins",
-    "group": "Rogahn and Sons",
-    "room": "1243",
+    "name": "Antonina Lindgren",
+    "room": 5605,
+    "subject": "Howell - Collier",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Emanuel Kilback",
-    "group": "Cole Group",
-    "room": "1015",
+    "name": "Kenny Johnson",
+    "room": 3723,
+    "subject": "Nikolaus, Gislason and Schroeder",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Helena Schmidt",
-    "group": "D'Amore - Kulas",
-    "room": "1684",
+    "name": "Dudley Corkery",
+    "room": 3644,
+    "subject": "Wolf and Sons",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Maci Senger",
-    "group": "Boyle, Klein and Nader",
-    "room": "1978",
-    "isStudent": false
+    "name": "Maximillia Mohr",
+    "room": 3485,
+    "subject": "Graham, Conn and Murray",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Ara Fahey",
-    "group": "Kautzer, Kuvalis and Christiansen",
-    "room": "1381",
-    "isStudent": false
+    "name": "Gudrun Schiller III",
+    "room": 2234,
+    "subject": "Harris and Sons",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Jarret Hilll",
-    "group": "Thiel - Stark",
-    "room": "1278",
-    "isStudent": false
+    "name": "Eda Torp",
+    "room": 5851,
+    "subject": "Schowalter and Sons",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Dr. Elyse Willms",
-    "group": "Baumbach Inc",
-    "room": "1365",
-    "isStudent": false
+    "name": "Kay Wyman",
+    "room": 2005,
+    "subject": "Kunde, Schuppe and Schultz",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Caterina Stanton",
-    "group": "Gusikowski Inc",
-    "room": "1913",
-    "isStudent": false
+    "name": "Isaac Spencer",
+    "room": 2669,
+    "subject": "Swaniawski Inc",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Carmine Pagac IV",
-    "group": "Boyer Inc",
-    "room": "1253",
+    "name": "Freida Purdy",
+    "room": 2816,
+    "subject": "D'Amore - Schroeder",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Verla Hauck PhD",
-    "group": "Roberts, Durgan and Wolf",
-    "room": "1675",
+    "name": "Oswald Nikolaus",
+    "room": 3772,
+    "subject": "Schinner LLC",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Nico Marquardt",
-    "group": "Collier - Fisher",
-    "room": "1589",
+    "name": "Jerod Ledner",
+    "room": 5467,
+    "subject": "Schaefer - Wisoky",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Jane Schumm",
-    "group": "Wunsch, Wiza and Beatty",
-    "room": "1350",
+    "name": "Alfonzo Miller",
+    "room": 4654,
+    "subject": "Hauck LLC",
+    "group": "♣️",
+    "isStudent": false
+  },
+  {
+    "name": "Monserrate Ortiz",
+    "room": 5672,
+    "subject": "Lindgren Inc",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Alva Schneider",
-    "group": "Schuppe, Skiles and Rath",
-    "room": "1996",
+    "name": "Mr. Anais Cartwright",
+    "room": 5376,
+    "subject": "Lockman, Grady and Bode",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Miss Hugh Stehr",
-    "group": "Huels, Quitzon and Friesen",
-    "room": "1506",
+    "name": "Randall Kuphal",
+    "room": 3102,
+    "subject": "Buckridge - Effertz",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Enrico Metz",
-    "group": "Legros - Fritsch",
-    "room": "1165",
+    "name": "Regan Lindgren",
+    "room": 3934,
+    "subject": "Berge and Sons",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Arthur Glover",
-    "group": "Marks, Ruecker and Rohan",
-    "room": "1703",
+    "name": "Elton Streich",
+    "room": 3004,
+    "subject": "Satterfield - Bashirian",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Jess Koch",
-    "group": "Franecki - Bednar",
-    "room": "1046",
+    "name": "Cicero Schroeder",
+    "room": 3698,
+    "subject": "Jones Inc",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Kenny Pollich",
-    "group": "Leuschke - Nicolas",
-    "room": "1237",
+    "name": "Mr. Jonatan Fritsch",
+    "room": 4929,
+    "subject": "Hahn, Tromp and Ortiz",
+    "group": "♦️",
     "isStudent": true
-  },
-  {
-    "name": "Arno Walker IV",
-    "group": "Heller Inc",
-    "room": "1111",
-    "isStudent": false
   },
   {
-    "name": "Antonio Blick",
-    "group": "Erdman, Lynch and Hodkiewicz",
-    "room": "1581",
+    "name": "Lenore Ondricka",
+    "room": 5478,
+    "subject": "Spinka Group",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Hailie Spencer",
-    "group": "Kunze - Auer",
-    "room": "1706",
+    "name": "Fiona Hauck",
+    "room": 2971,
+    "subject": "Feeney Inc",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Earnest Reynolds",
-    "group": "Mosciski - Cartwright",
-    "room": "1827",
+    "name": "Amos Senger",
+    "room": 5342,
+    "subject": "Hessel Group",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Keyon Shanahan",
-    "group": "McClure - Schneider",
-    "room": "1176",
+    "name": "Bill Renner V",
+    "room": 2787,
+    "subject": "Windler Group",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Darien Wolf",
-    "group": "Mueller - Denesik",
-    "room": "1328",
-    "isStudent": false
+    "name": "Kaley Jacobs",
+    "room": 3314,
+    "subject": "Hagenes Group",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Adelia Murazik",
-    "group": "Marks - Hackett",
-    "room": "1985",
+    "name": "Era Block",
+    "room": 3018,
+    "subject": "Wolff, Reichel and Gerhold",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Aniyah Abbott",
-    "group": "Kihn LLC",
-    "room": "1132",
+    "name": "Scottie Zulauf",
+    "room": 2142,
+    "subject": "Schiller - Senger",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Presley Cummings",
-    "group": "Leannon, Batz and Muller",
-    "room": "1676",
-    "isStudent": false
+    "name": "Eugene Keeling",
+    "room": 3557,
+    "subject": "Welch LLC",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Rex Thiel",
-    "group": "Schumm - Bartoletti",
-    "room": "1639",
-    "isStudent": false
+    "name": "Rogers Abshire",
+    "room": 4795,
+    "subject": "Purdy and Sons",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Vladimir Hyatt",
-    "group": "Auer - Prohaska",
-    "room": "1949",
+    "name": "Miss Mia Fadel",
+    "room": 5083,
+    "subject": "VonRueden Inc",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Christiana Aufderhar",
-    "group": "Kemmer, Ondricka and Hoppe",
-    "room": "1499",
-    "isStudent": false
+    "name": "Carrie Pacocha",
+    "room": 2811,
+    "subject": "Schoen - Kuvalis",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Abigayle Mayer",
-    "group": "Stanton - Marquardt",
-    "room": "1235",
+    "name": "Cheyanne Hagenes",
+    "room": 2885,
+    "subject": "Kreiger, Gutkowski and Ruecker",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Antoinette Hickle",
-    "group": "Goyette - Rohan",
-    "room": "1241",
-    "isStudent": true
+    "name": "Arden Fahey",
+    "room": 5645,
+    "subject": "Feest - Walter",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Courtney Witting",
-    "group": "Schoen - Feil",
-    "room": "1012",
-    "isStudent": false
+    "name": "Jose Turner",
+    "room": 5237,
+    "subject": "Emmerich - Olson",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Pasquale Flatley",
-    "group": "Macejkovic, Barrows and Quigley",
-    "room": "1940",
+    "name": "Johnnie Becker",
+    "room": 5116,
+    "subject": "Konopelski - Kreiger",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Dr. Isaias Hayes",
-    "group": "Stanton - Rodriguez",
-    "room": "1763",
+    "name": "Carrie Hamill",
+    "room": 2784,
+    "subject": "Abernathy, Shanahan and Howell",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Adrian Cartwright",
-    "group": "Lueilwitz - Barton",
-    "room": "1692",
+    "name": "Carlotta Beer",
+    "room": 4764,
+    "subject": "Lubowitz - Gorczany",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Alden Kovacek",
-    "group": "Hills - Ullrich",
-    "room": "1146",
+    "name": "Bo Dietrich",
+    "room": 5300,
+    "subject": "Spencer LLC",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Dr. Jesus Murphy",
-    "group": "Jakubowski - Reynolds",
-    "room": "1048",
+    "name": "Efrain Senger",
+    "room": 5302,
+    "subject": "Kilback, Bartell and Wintheiser",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Amara Howe",
-    "group": "Schaden - Smith",
-    "room": "1247",
+    "name": "Hermina Prohaska",
+    "room": 2552,
+    "subject": "Mraz, Upton and Miller",
+    "group": "♠️",
     "isStudent": true
-  },
-  {
-    "name": "Judson Mosciski III",
-    "group": "Volkman - Stoltenberg",
-    "room": "1915",
-    "isStudent": false
-  },
-  {
-    "name": "Mrs. Haylie Cassin",
-    "group": "Flatley and Sons",
-    "room": "1846",
-    "isStudent": false
   },
   {
-    "name": "Jeffrey Christiansen",
-    "group": "Herzog, Metz and Brekke",
-    "room": "1131",
+    "name": "Norberto Ankunding",
+    "room": 2894,
+    "subject": "Olson and Sons",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Kennith Nolan",
-    "group": "Rath Group",
-    "room": "1825",
+    "name": "Milan Senger",
+    "room": 4795,
+    "subject": "Thiel - Brekke",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Madeline McDermott",
-    "group": "Beier, McCullough and Weber",
-    "room": "1187",
+    "name": "Genoveva Auer",
+    "room": 5448,
+    "subject": "Pagac and Sons",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Brad Hartmann",
-    "group": "Ferry LLC",
-    "room": "1711",
-    "isStudent": false
+    "name": "Sigurd Fadel",
+    "room": 5652,
+    "subject": "Legros Inc",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Mallory Kertzmann",
-    "group": "Boyle - Quitzon",
-    "room": "1356",
+    "name": "Darlene Nikolaus",
+    "room": 4094,
+    "subject": "Paucek Group",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Lorine Orn",
-    "group": "Dooley, Ryan and Kiehn",
-    "room": "1531",
-    "isStudent": true
+    "name": "Coty Kuphal",
+    "room": 3540,
+    "subject": "Keeling - Connelly",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Avery Brakus",
-    "group": "Blanda - Corwin",
-    "room": "1777",
+    "name": "Mr. Juana Bednar",
+    "room": 4982,
+    "subject": "Collins Inc",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Mrs. Easter Keeling",
-    "group": "Stiedemann LLC",
-    "room": "1160",
-    "isStudent": true
+    "name": "Ofelia Rogahn",
+    "room": 4029,
+    "subject": "Zemlak Group",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Angelina Leffler PhD",
-    "group": "Hills - Hoppe",
-    "room": "1589",
+    "name": "Elvie Hand",
+    "room": 2772,
+    "subject": "Spencer and Sons",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Doris Hickle",
-    "group": "Jerde and Sons",
-    "room": "1134",
+    "name": "Eliane Harber",
+    "room": 4782,
+    "subject": "Hermiston and Sons",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Miss Leora Torp",
-    "group": "Barrows and Sons",
-    "room": "1619",
-    "isStudent": false
+    "name": "Trycia Berge DDS",
+    "room": 5689,
+    "subject": "Veum Group",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Dock Von",
-    "group": "Buckridge - Pfannerstill",
-    "room": "1503",
-    "isStudent": false
+    "name": "Martine McCullough",
+    "room": 5309,
+    "subject": "Roob Inc",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Mrs. Rosalyn Kertzmann",
-    "group": "Buckridge LLC",
-    "room": "1385",
+    "name": "Irving Howe",
+    "room": 5796,
+    "subject": "Wisozk, Sawayn and Nitzsche",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Gayle Keebler Sr.",
-    "group": "Berge - Conroy",
-    "room": "1074",
+    "name": "Kayla Doyle Sr.",
+    "room": 2148,
+    "subject": "Torp - Sawayn",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Emile Gottlieb",
-    "group": "O'Keefe, Spinka and Johns",
-    "room": "1304",
+    "name": "Garett Ruecker",
+    "room": 4705,
+    "subject": "Dickens and Sons",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Candice Considine PhD",
-    "group": "Jaskolski and Sons",
-    "room": "1580",
+    "name": "Isobel Larkin",
+    "room": 5292,
+    "subject": "Heller Group",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Norene Hegmann",
-    "group": "Okuneva, Yost and Rempel",
-    "room": "1491",
-    "isStudent": true
+    "name": "Brooke Luettgen III",
+    "room": 5927,
+    "subject": "Ondricka, Kozey and Dooley",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Mr. Bessie Langosh",
-    "group": "Marvin, Sipes and Langosh",
-    "room": "1048",
+    "name": "Bella Windler",
+    "room": 4493,
+    "subject": "Schmeler, Lang and Hermann",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Ms. Lennie Hansen",
-    "group": "Aufderhar, Ryan and Kreiger",
-    "room": "1926",
+    "name": "Leann Ritchie",
+    "room": 4111,
+    "subject": "Sipes, Lakin and Erdman",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Sherwood Mills",
-    "group": "Carter, Doyle and Schaden",
-    "room": "1189",
+    "name": "Alfonso Stracke",
+    "room": 5111,
+    "subject": "Pouros - Spinka",
+    "group": "♣️",
     "isStudent": true
-  },
-  {
-    "name": "Schuyler Zboncak",
-    "group": "Rutherford Inc",
-    "room": "1768",
-    "isStudent": false
   },
   {
-    "name": "Hassie Cruickshank",
-    "group": "Dare and Sons",
-    "room": "1078",
+    "name": "Walker Kemmer",
+    "room": 4904,
+    "subject": "McCullough, Schaden and Schaefer",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Dr. Bennie Parisian",
-    "group": "Lesch - Cartwright",
-    "room": "1494",
+    "name": "Trudie Schimmel",
+    "room": 2655,
+    "subject": "Lind LLC",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Tavares Schaden V",
-    "group": "Price, Donnelly and Schroeder",
-    "room": "1114",
+    "name": "Morton Weissnat",
+    "room": 4109,
+    "subject": "Schamberger - Legros",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Libby Weimann",
-    "group": "Hilll, Steuber and Schaden",
-    "room": "1903",
+    "name": "Devyn Boyer",
+    "room": 2306,
+    "subject": "Crist Group",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Estevan Hintz",
-    "group": "Walter and Sons",
-    "room": "1288",
-    "isStudent": true
+    "name": "Kelvin Pfannerstill",
+    "room": 2440,
+    "subject": "Labadie - Rolfson",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Lea Block",
-    "group": "Schaefer - O'Connell",
-    "room": "1107",
+    "name": "Candelario Windler",
+    "room": 5213,
+    "subject": "Balistreri - Morar",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Chanelle Schmeler",
-    "group": "Harber and Sons",
-    "room": "1123",
-    "isStudent": true
+    "name": "Nola Fay",
+    "room": 5734,
+    "subject": "Shanahan - Cummings",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Madisyn Langosh IV",
-    "group": "Wiza, Olson and Nikolaus",
-    "room": "1700",
-    "isStudent": false
+    "name": "Amos Hand",
+    "room": 2702,
+    "subject": "Orn and Sons",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Bonita Sporer",
-    "group": "Walsh, Terry and Krajcik",
-    "room": "1271",
+    "name": "Curt Spencer",
+    "room": 3923,
+    "subject": "Ernser, Kunde and Leannon",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Ms. Nolan Torp",
-    "group": "Crona - Kovacek",
-    "room": "1486",
+    "name": "Isadore Mayert V",
+    "room": 3829,
+    "subject": "Koepp - Turcotte",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Kim Mraz PhD",
-    "group": "Heller - Runolfsdottir",
-    "room": "1100",
+    "name": "Alfredo Nienow",
+    "room": 2154,
+    "subject": "Harvey - Friesen",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Brady Lang",
-    "group": "O'Connell - Olson",
-    "room": "1754",
-    "isStudent": false
+    "name": "Nicolette Okuneva",
+    "room": 4339,
+    "subject": "Powlowski, Roob and Gleason",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Ms. Camilla Schinner",
-    "group": "Friesen, Osinski and Nienow",
-    "room": "1012",
-    "isStudent": false
+    "name": "Billie Barrows",
+    "room": 2996,
+    "subject": "Gutmann - Cummings",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Edna O'Keefe",
-    "group": "Stamm Inc",
-    "room": "1337",
+    "name": "Beaulah Stiedemann",
+    "room": 3580,
+    "subject": "Veum Inc",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Hilda Murphy",
-    "group": "Sporer, Murray and Wehner",
-    "room": "1635",
+    "name": "Joesph Strosin",
+    "room": 2818,
+    "subject": "Doyle - Schaefer",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Narciso Tromp",
-    "group": "Purdy, Klein and Weissnat",
-    "room": "1723",
+    "name": "Kelton Treutel",
+    "room": 4280,
+    "subject": "Kuphal Group",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Alexa Wisoky",
-    "group": "Block - Ratke",
-    "room": "1702",
+    "name": "Madge Rohan",
+    "room": 3866,
+    "subject": "McCullough - Sanford",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Kim Collins",
-    "group": "Gutmann - Ankunding",
-    "room": "1371",
+    "name": "Brooks Greenfelder",
+    "room": 4436,
+    "subject": "Heidenreich, Schroeder and Langworth",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Adolf Steuber",
-    "group": "Brakus - O'Hara",
-    "room": "1813",
+    "name": "Cristobal Beatty",
+    "room": 3662,
+    "subject": "Gorczany, Bahringer and Ebert",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Adolphus Ortiz",
-    "group": "Bogan, Dare and Klein",
-    "room": "1142",
+    "name": "Marianna Kemmer",
+    "room": 2264,
+    "subject": "Watsica - Bode",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Rey Grady",
-    "group": "Romaguera Group",
-    "room": "1158",
-    "isStudent": true
+    "name": "Freddie Wisozk",
+    "room": 3727,
+    "subject": "Gibson - Bauch",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Kane Padberg",
-    "group": "Zboncak Inc",
-    "room": "1646",
+    "name": "Chyna Pollich",
+    "room": 5325,
+    "subject": "O'Conner - Ratke",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Ashlynn Johnson",
-    "group": "Stark, Walker and Brakus",
-    "room": "1112",
+    "name": "Darius Gutmann",
+    "room": 4016,
+    "subject": "Frami Inc",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Miss Laury Brown",
-    "group": "Feil - Marquardt",
-    "room": "1064",
+    "name": "Vergie Kuhn DDS",
+    "room": 2710,
+    "subject": "Rosenbaum - Satterfield",
+    "group": "♣️",
     "isStudent": true
-  },
-  {
-    "name": "Nikita Thiel",
-    "group": "Howe, Koepp and Jones",
-    "room": "1692",
-    "isStudent": false
   },
   {
-    "name": "Madilyn Mayer DVM",
-    "group": "Hahn LLC",
-    "room": "1076",
-    "isStudent": false
+    "name": "Thalia Yundt",
+    "room": 4029,
+    "subject": "Nitzsche Group",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Dallas Gerlach I",
-    "group": "Jacobson, O'Keefe and Hartmann",
-    "room": "1474",
-    "isStudent": false
+    "name": "Mrs. Mafalda Brakus",
+    "room": 4652,
+    "subject": "Quigley Inc",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Franco Bashirian",
-    "group": "Nitzsche, O'Hara and Boyle",
-    "room": "1903",
+    "name": "Edmund Keebler",
+    "room": 3707,
+    "subject": "Toy - Wiza",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Rylee Stiedemann",
-    "group": "Champlin, Miller and Bogan",
-    "room": "1004",
+    "name": "Jalon Crooks MD",
+    "room": 2760,
+    "subject": "Tromp - Breitenberg",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Jaylen Cassin",
-    "group": "Kreiger and Sons",
-    "room": "1466",
+    "name": "Akeem Cronin",
+    "room": 5693,
+    "subject": "Jakubowski, Morissette and Collier",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Laurel Monahan Sr.",
-    "group": "Volkman LLC",
-    "room": "1239",
-    "isStudent": false
+    "name": "Dejon Bradtke",
+    "room": 5571,
+    "subject": "Boyer Group",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Austin Spinka",
-    "group": "Ullrich - Reichel",
-    "room": "1945",
+    "name": "Jaime Grady",
+    "room": 4100,
+    "subject": "Herzog, Hamill and Hartmann",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Oswald Waelchi",
-    "group": "Weimann, Murray and Yundt",
-    "room": "1936",
+    "name": "Issac Stracke",
+    "room": 3216,
+    "subject": "MacGyver LLC",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Miss Bernadette Ryan",
-    "group": "Christiansen - Lindgren",
-    "room": "1851",
+    "name": "Eliezer Bahringer",
+    "room": 5261,
+    "subject": "Sanford - Lemke",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Abe Goldner",
-    "group": "Schmidt - Stokes",
-    "room": "1635",
+    "name": "Vance Rosenbaum",
+    "room": 5723,
+    "subject": "Shields - Hudson",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Leif Kertzmann",
-    "group": "Kreiger, Kovacek and Berge",
-    "room": "1459",
+    "name": "Lindsey Kulas",
+    "room": 3079,
+    "subject": "Reilly LLC",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Cordelia Schaden I",
-    "group": "Klein, Kulas and Jacobs",
-    "room": "1916",
+    "name": "Kasandra Will",
+    "room": 3236,
+    "subject": "Dickinson Inc",
+    "group": "♥️",
+    "isStudent": true
+  },
+  {
+    "name": "Mrs. Jessyca Will",
+    "room": 3345,
+    "subject": "Turner - Steuber",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Beulah Pfeffer V",
-    "group": "Abshire Group",
-    "room": "1607",
+    "name": "Ms. Rollin Dicki",
+    "room": 5286,
+    "subject": "Kling, Auer and Hills",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Carlie Ernser",
-    "group": "Rempel LLC",
-    "room": "1160",
+    "name": "Mac Cummings",
+    "room": 2437,
+    "subject": "Ratke, Heller and Gibson",
+    "group": "♥️",
     "isStudent": true
+  },
+  {
+    "name": "Royal Skiles",
+    "room": 2712,
+    "subject": "Kautzer and Sons",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Donavon Zieme",
-    "group": "Dare - Muller",
-    "room": "1932",
+    "name": "Beatrice Fritsch",
+    "room": 4926,
+    "subject": "Kirlin - Watsica",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Roberta Stamm",
-    "group": "West - Oberbrunner",
-    "room": "1571",
+    "name": "Erna Eichmann",
+    "room": 4961,
+    "subject": "Cummings Inc",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Mr. Ethyl Quigley",
-    "group": "Legros, Thompson and Pollich",
-    "room": "1489",
+    "name": "Bettie Schmeler II",
+    "room": 4576,
+    "subject": "Collins, Feeney and Murphy",
+    "group": "♥️",
+    "isStudent": false
+  },
+  {
+    "name": "Miss Jarrod Champlin",
+    "room": 4494,
+    "subject": "Wolf, Lockman and Bednar",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Maxie Reichel",
-    "group": "Rosenbaum, Leannon and Ullrich",
-    "room": "1202",
+    "name": "Mr. Kali Walter",
+    "room": 5917,
+    "subject": "Nolan, Fadel and Collier",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Milan Runolfsson",
-    "group": "Gorczany - Sanford",
-    "room": "1900",
+    "name": "Kenya Wuckert",
+    "room": 2475,
+    "subject": "Cruickshank, Goyette and Monahan",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Rene Bernhard",
-    "group": "Lind, Hudson and Weber",
-    "room": "1638",
-    "isStudent": true
+    "name": "Leopoldo Russel",
+    "room": 2442,
+    "subject": "Yost, Rice and Koelpin",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Kole Jacobi",
-    "group": "McKenzie - Farrell",
-    "room": "1474",
-    "isStudent": true
+    "name": "Davion Becker MD",
+    "room": 4410,
+    "subject": "Thompson, Dibbert and Carter",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Bertram Stracke",
-    "group": "Rau Inc",
-    "room": "1890",
+    "name": "Isabel Flatley",
+    "room": 3052,
+    "subject": "Fritsch - Daniel",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Vidal McClure",
-    "group": "Bins and Sons",
-    "room": "1529",
+    "name": "Eino Casper",
+    "room": 4057,
+    "subject": "Spencer, Brakus and Boyle",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Rowan Gottlieb",
-    "group": "Wyman, Dooley and Haag",
-    "room": "1066",
+    "name": "Angelica Volkman",
+    "room": 4234,
+    "subject": "Carroll, Deckow and Borer",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Montana Pouros",
-    "group": "Conn - Fay",
-    "room": "1994",
+    "name": "Meagan Roberts",
+    "room": 4965,
+    "subject": "Goldner - Connelly",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Dr. Alysha Luettgen",
-    "group": "Harris, Stanton and Swift",
-    "room": "1145",
+    "name": "Mr. Hassan Lindgren",
+    "room": 3443,
+    "subject": "Hamill - Balistreri",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Jasper Stamm",
-    "group": "Lowe and Sons",
-    "room": "1764",
+    "name": "Haylee Kuphal",
+    "room": 4167,
+    "subject": "Cole, Torp and Rath",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Camila Macejkovic",
-    "group": "Streich - Roob",
-    "room": "1191",
+    "name": "Madaline Considine",
+    "room": 3574,
+    "subject": "Strosin, Treutel and Reynolds",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Mr. Destinee O'Kon",
-    "group": "Jerde, Torphy and Mann",
-    "room": "1565",
-    "isStudent": true
+    "name": "Mr. Jasmin Strosin",
+    "room": 4909,
+    "subject": "Shields, Huel and Ruecker",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Ms. Coy Ward",
-    "group": "Lehner - Frami",
-    "room": "1538",
+    "name": "Pietro Welch",
+    "room": 2358,
+    "subject": "Kling Inc",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Sebastian Heaney",
-    "group": "Durgan Inc",
-    "room": "1267",
+    "name": "Timmy Rosenbaum",
+    "room": 2437,
+    "subject": "Quigley - Bernhard",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Cornelius Vandervort",
-    "group": "Gerhold - Hahn",
-    "room": "1610",
+    "name": "Dr. Dovie Mann",
+    "room": 3925,
+    "subject": "Kuhlman, Wilderman and Luettgen",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Ms. Giles Gaylord",
-    "group": "Ritchie - Cruickshank",
-    "room": "1913",
+    "name": "Jaycee Gerlach",
+    "room": 5871,
+    "subject": "Bailey - Sanford",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Nya Veum",
-    "group": "Upton, Fritsch and Jenkins",
-    "room": "1121",
-    "isStudent": true
+    "name": "Christian Gislason",
+    "room": 5399,
+    "subject": "Nienow Inc",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Bailee Kuhlman",
-    "group": "Kuhlman LLC",
-    "room": "1191",
+    "name": "Conner Walker",
+    "room": 5646,
+    "subject": "Collins - Mohr",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Emilie McKenzie",
-    "group": "Braun and Sons",
-    "room": "1292",
+    "name": "Damaris Baumbach",
+    "room": 2664,
+    "subject": "Baumbach, Metz and Haley",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Geo Walker",
-    "group": "Kshlerin, Luettgen and Homenick",
-    "room": "1153",
+    "name": "Chandler Grady",
+    "room": 2187,
+    "subject": "Hane, Powlowski and Wuckert",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Lincoln Stroman",
-    "group": "Cartwright - Bins",
-    "room": "1715",
+    "name": "Audreanne Buckridge",
+    "room": 3538,
+    "subject": "Torphy, Schaefer and Beer",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Dulce Fay",
-    "group": "Ullrich - Langworth",
-    "room": "1896",
+    "name": "Mckenzie Nolan PhD",
+    "room": 3201,
+    "subject": "Towne, Volkman and Hamill",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Gilda Blanda",
-    "group": "Auer - West",
-    "room": "1185",
+    "name": "Bert Lehner",
+    "room": 3954,
+    "subject": "Walsh, Turcotte and Hoppe",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Velma Mayert",
-    "group": "Bartoletti, Welch and Renner",
-    "room": "1077",
-    "isStudent": true
-  },
-  {
-    "name": "Lottie King",
-    "group": "Ullrich LLC",
-    "room": "1034",
-    "isStudent": true
+    "name": "Casper Frami",
+    "room": 5838,
+    "subject": "Olson Group",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Janet McKenzie",
-    "group": "Kirlin, Gusikowski and Kassulke",
-    "room": "1597",
+    "name": "Marcos Metz",
+    "room": 2517,
+    "subject": "Zieme - Towne",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Charlotte Zboncak",
-    "group": "Gibson - Schinner",
-    "room": "1850",
+    "name": "Aimee Corkery",
+    "room": 5014,
+    "subject": "Satterfield Group",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Jerrold Willms",
-    "group": "Hamill - Grimes",
-    "room": "1960",
-    "isStudent": true
+    "name": "Allan Conn",
+    "room": 4976,
+    "subject": "Schimmel and Sons",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Chelsea Mayer",
-    "group": "Olson, Fadel and Koch",
-    "room": "1152",
+    "name": "Brannon Feeney",
+    "room": 3474,
+    "subject": "Corwin Group",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Ivory Connelly",
-    "group": "Prosacco LLC",
-    "room": "1666",
+    "name": "Jaida Lind",
+    "room": 4703,
+    "subject": "Schaden, Block and Adams",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Dakota Toy",
-    "group": "Bernier - Jacobi",
-    "room": "1138",
+    "name": "Tyrel Kiehn",
+    "room": 5623,
+    "subject": "Lemke Inc",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Jaquan Jacobi",
-    "group": "Bayer - Cole",
-    "room": "1208",
+    "name": "Georgiana Heller",
+    "room": 2615,
+    "subject": "Heaney, Ritchie and Bruen",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Makenna Haag",
-    "group": "Reichert, Zieme and Robel",
-    "room": "1513",
-    "isStudent": true
+    "name": "Danika Osinski",
+    "room": 2672,
+    "subject": "Feest LLC",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Blake Gutmann",
-    "group": "Schmidt Group",
-    "room": "1610",
+    "name": "Mrs. Lulu Champlin",
+    "room": 5195,
+    "subject": "Harber, Hoppe and Hilll",
+    "group": "♦️",
     "isStudent": true
+  },
+  {
+    "name": "Deja Lueilwitz",
+    "room": 4802,
+    "subject": "Wolf, Ratke and Hyatt",
+    "group": "♥️",
+    "isStudent": false
+  },
+  {
+    "name": "Jermain Homenick",
+    "room": 4077,
+    "subject": "Robel and Sons",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Delphine Durgan",
-    "group": "Kemmer - Gislason",
-    "room": "1106",
+    "name": "Wellington Hettinger III",
+    "room": 5401,
+    "subject": "Leffler - Schoen",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Eulalia Zemlak",
-    "group": "Stokes LLC",
-    "room": "1283",
+    "name": "Greta Robel",
+    "room": 5461,
+    "subject": "Schuppe, Hane and Larson",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Mr. Rolando McLaughlin",
-    "group": "Price Inc",
-    "room": "1576",
+    "name": "Fidel D'Amore",
+    "room": 3945,
+    "subject": "Mitchell, Powlowski and Collins",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Vella Turcotte",
-    "group": "Simonis - Heidenreich",
-    "room": "1980",
+    "name": "Irma Gislason",
+    "room": 2173,
+    "subject": "Breitenberg - Homenick",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Miss Hilda Leffler",
-    "group": "Kirlin LLC",
-    "room": "1389",
+    "name": "Einar Nikolaus Sr.",
+    "room": 3134,
+    "subject": "Reinger - Bayer",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Kyla Leffler PhD",
-    "group": "Borer - Baumbach",
-    "room": "1519",
+    "name": "Adrian Donnelly",
+    "room": 4525,
+    "subject": "McLaughlin Group",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Dewitt Pfeffer",
-    "group": "Satterfield and Sons",
-    "room": "1124",
-    "isStudent": false
+    "name": "Nella Rempel",
+    "room": 5908,
+    "subject": "Koch - Spencer",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Lenore Jacobson",
-    "group": "Gorczany - Kemmer",
-    "room": "1620",
+    "name": "Jaiden O'Connell",
+    "room": 4981,
+    "subject": "Koepp, O'Hara and Beer",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Jarvis Luettgen",
-    "group": "Donnelly Group",
-    "room": "1201",
+    "name": "Fae Anderson",
+    "room": 5655,
+    "subject": "Schuster Inc",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Jeanne Lemke",
-    "group": "Fisher Inc",
-    "room": "1082",
-    "isStudent": true
+    "name": "Blaze Kling",
+    "room": 5013,
+    "subject": "Hoppe - Kirlin",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Ludwig Hoppe",
-    "group": "Thompson, Crona and Barrows",
-    "room": "1734",
+    "name": "Donna Padberg",
+    "room": 2894,
+    "subject": "Welch, Ferry and Oberbrunner",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Marielle Stoltenberg",
-    "group": "Prosacco - Runolfsdottir",
-    "room": "1289",
+    "name": "Haley Paucek",
+    "room": 3775,
+    "subject": "Hirthe and Sons",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Alicia Anderson",
-    "group": "Haag and Sons",
-    "room": "1975",
+    "name": "Deangelo MacGyver",
+    "room": 2127,
+    "subject": "Krajcik, Daniel and McGlynn",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Keaton Nienow",
-    "group": "Barton Group",
-    "room": "1711",
+    "name": "Daniela Anderson",
+    "room": 2018,
+    "subject": "Block LLC",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "May Feil",
-    "group": "Crooks and Sons",
-    "room": "1511",
-    "isStudent": true
+    "name": "Don Glover",
+    "room": 4417,
+    "subject": "Moen, Blick and Okuneva",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Kenny DuBuque",
-    "group": "Johnson - Erdman",
-    "room": "1087",
+    "name": "Lafayette Schuppe",
+    "room": 5263,
+    "subject": "Bashirian Group",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Rylan Welch III",
-    "group": "Boyer Group",
-    "room": "1236",
-    "isStudent": true
+    "name": "Miss Twila Berge",
+    "room": 2098,
+    "subject": "Kshlerin - Kling",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Carolyne Bayer",
-    "group": "Schinner Inc",
-    "room": "1424",
+    "name": "Craig Eichmann",
+    "room": 4248,
+    "subject": "Witting, Roberts and Schinner",
+    "group": "♠️",
+    "isStudent": false
+  },
+  {
+    "name": "Verla Little",
+    "room": 4988,
+    "subject": "Kiehn, Kunde and Tillman",
+    "group": "♠️",
     "isStudent": true
+  },
+  {
+    "name": "Murl Parisian",
+    "room": 5058,
+    "subject": "Nader, Leannon and Torphy",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Harley Stoltenberg",
-    "group": "Turner - Mraz",
-    "room": "1141",
+    "name": "Leonor Tromp",
+    "room": 3182,
+    "subject": "Heathcote LLC",
+    "group": "♦️",
     "isStudent": true
+  },
+  {
+    "name": "Tatum Sporer",
+    "room": 4254,
+    "subject": "Lang LLC",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Dr. Larue Lehner",
-    "group": "Jerde LLC",
-    "room": "1662",
+    "name": "Don Hilpert",
+    "room": 3517,
+    "subject": "Mueller, Goyette and Bernier",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Carol Hermann",
-    "group": "Macejkovic - Streich",
-    "room": "1048",
+    "name": "Ms. Karl Strosin",
+    "room": 5045,
+    "subject": "Ward and Sons",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Freeman Yundt",
-    "group": "Langosh LLC",
-    "room": "1988",
-    "isStudent": false
+    "name": "Marvin Jacobs",
+    "room": 2172,
+    "subject": "Klocko LLC",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Mrs. Bernhard Kunze",
-    "group": "Rippin Inc",
-    "room": "1267",
+    "name": "Clare Halvorson IV",
+    "room": 3783,
+    "subject": "Huels - Blick",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Conrad Moen",
-    "group": "Bergnaum - O'Reilly",
-    "room": "1654",
+    "name": "Dashawn Schroeder",
+    "room": 2614,
+    "subject": "Treutel - Leuschke",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Myra Hilpert",
-    "group": "Green - Koepp",
-    "room": "1384",
+    "name": "Ernest Goldner III",
+    "room": 3390,
+    "subject": "Frami - O'Hara",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Micheal Kirlin III",
-    "group": "Marquardt, Zemlak and Murray",
-    "room": "1603",
+    "name": "Randal Yost",
+    "room": 5988,
+    "subject": "Quigley - McDermott",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Jarret Bailey IV",
-    "group": "Ferry and Sons",
-    "room": "1852",
+    "name": "Teresa Brown",
+    "room": 5328,
+    "subject": "Hirthe Inc",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Noble Goodwin",
-    "group": "Conn Group",
-    "room": "1111",
+    "name": "Ms. Cortney Kihn",
+    "room": 3903,
+    "subject": "Considine - Ferry",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Mr. Aurelie Collier",
-    "group": "Durgan, Trantow and Swift",
-    "room": "1776",
+    "name": "Melyssa Stroman",
+    "room": 4515,
+    "subject": "Kerluke LLC",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Alicia Paucek",
-    "group": "Mohr - Lowe",
-    "room": "1541",
+    "name": "Torrey O'Connell",
+    "room": 3217,
+    "subject": "Kunde Inc",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Miss Olin Osinski",
-    "group": "Satterfield, Frami and Schaden",
-    "room": "1200",
-    "isStudent": false
+    "name": "Ernie Harber",
+    "room": 3246,
+    "subject": "Cummerata - Harber",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Eduardo Thompson",
-    "group": "Kuhic, McClure and Powlowski",
-    "room": "1030",
+    "name": "Bill Cartwright",
+    "room": 2120,
+    "subject": "Mitchell - Smitham",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Elvie Bailey",
-    "group": "Jenkins, West and Roberts",
-    "room": "1747",
+    "name": "Brock Satterfield I",
+    "room": 4902,
+    "subject": "Harvey, Steuber and Purdy",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Olaf Muller",
-    "group": "Wunsch, Dibbert and Borer",
-    "room": "1564",
+    "name": "Kaia Wisoky",
+    "room": 4619,
+    "subject": "Dibbert, Schowalter and Lebsack",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Douglas Bashirian MD",
-    "group": "Maggio - Rath",
-    "room": "1402",
+    "name": "Darren Rutherford",
+    "room": 4111,
+    "subject": "Rowe - Daniel",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Odie Schultz",
-    "group": "Bauch, Daniel and Lind",
-    "room": "1963",
-    "isStudent": false
+    "name": "Nicklaus Bartoletti",
+    "room": 5541,
+    "subject": "Turcotte and Sons",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Krystel Bins",
-    "group": "Altenwerth, O'Reilly and Stoltenberg",
-    "room": "1014",
+    "name": "Miss Edd VonRueden",
+    "room": 2977,
+    "subject": "Langworth, Auer and Dibbert",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Blanca Lakin Jr.",
-    "group": "Hansen Group",
-    "room": "1186",
+    "name": "Jannie Tillman",
+    "room": 3876,
+    "subject": "White - West",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Katheryn Schultz",
-    "group": "Kozey - Collins",
-    "room": "1709",
-    "isStudent": false
+    "name": "Zetta Connelly",
+    "room": 3322,
+    "subject": "Marvin, Turner and Lakin",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Bernice Shanahan",
-    "group": "Nicolas Group",
-    "room": "1320",
+    "name": "Edgardo Christiansen",
+    "room": 4580,
+    "subject": "Leuschke - Marquardt",
+    "group": "♦️",
     "isStudent": true
+  },
+  {
+    "name": "Major Bergnaum",
+    "room": 5296,
+    "subject": "Bernier Group",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Jameson Sanford",
-    "group": "Turcotte - Johnson",
-    "room": "1066",
+    "name": "Orlando Leuschke",
+    "room": 5834,
+    "subject": "Torphy, Witting and Shanahan",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Jaycee Tromp",
-    "group": "Rippin, Gusikowski and Funk",
-    "room": "1080",
-    "isStudent": false
+    "name": "Marian Bauch",
+    "room": 2955,
+    "subject": "Hagenes - Adams",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Laurel Adams",
-    "group": "Thiel - Dickens",
-    "room": "1213",
+    "name": "Austen Hane",
+    "room": 4738,
+    "subject": "Roberts - Veum",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Icie Harris",
-    "group": "DuBuque, Gutmann and Ondricka",
-    "room": "1043",
-    "isStudent": false
+    "name": "Yvonne Kovacek",
+    "room": 2260,
+    "subject": "Abshire, Lemke and Turcotte",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Maryjane Dickinson",
-    "group": "Pollich Inc",
-    "room": "1667",
+    "name": "Connie Conn",
+    "room": 3303,
+    "subject": "Skiles LLC",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Uriah Kilback",
-    "group": "Klocko and Sons",
-    "room": "1183",
+    "name": "Graciela Abbott",
+    "room": 2138,
+    "subject": "Lowe and Sons",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Lulu Feil PhD",
-    "group": "Lang, Mertz and Leffler",
-    "room": "1138",
+    "name": "Erwin Kilback",
+    "room": 3643,
+    "subject": "Ryan - Howe",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Dominique Vandervort",
-    "group": "Walter - Willms",
-    "room": "1108",
+    "name": "Ressie Beatty PhD",
+    "room": 4360,
+    "subject": "Brakus, Medhurst and Waters",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Delores Renner",
-    "group": "Littel - Keebler",
-    "room": "1007",
+    "name": "Eino Kuhic",
+    "room": 5236,
+    "subject": "Mosciski, Mante and Cole",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Carlie Mraz V",
-    "group": "Smitham - Morissette",
-    "room": "1325",
-    "isStudent": true
+    "name": "Jena Zemlak",
+    "room": 4208,
+    "subject": "Ziemann Inc",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Kiel Lesch",
-    "group": "Heaney - Mohr",
-    "room": "1796",
+    "name": "Gabrielle Windler",
+    "room": 5767,
+    "subject": "Gutkowski, Dietrich and Kutch",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Elijah Batz",
-    "group": "Carroll, Bauch and Hackett",
-    "room": "1951",
+    "name": "Richie Jacobi",
+    "room": 3204,
+    "subject": "Harris LLC",
+    "group": "♣️",
     "isStudent": true
-  },
-  {
-    "name": "Assunta Morissette",
-    "group": "Larson, Medhurst and O'Connell",
-    "room": "1493",
-    "isStudent": false
   },
   {
-    "name": "Omer Zulauf",
-    "group": "Jacobi, Balistreri and Schumm",
-    "room": "1980",
+    "name": "Miss Maritza Rosenbaum",
+    "room": 3650,
+    "subject": "Zieme Group",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Laury Gottlieb",
-    "group": "Orn and Sons",
-    "room": "1416",
-    "isStudent": false
+    "name": "Reinhold Lind",
+    "room": 3083,
+    "subject": "Kutch, Runolfsdottir and Rippin",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Aubrey Crona",
-    "group": "Bechtelar, Little and Hamill",
-    "room": "1417",
+    "name": "Kristofer Roberts",
+    "room": 5985,
+    "subject": "Nikolaus, Wyman and Klein",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Daniella Pagac MD",
-    "group": "Armstrong, Gusikowski and Macejkovic",
-    "room": "1809",
+    "name": "Fernando Sauer DDS",
+    "room": 5783,
+    "subject": "Waelchi Group",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Jane Ondricka",
-    "group": "Pagac, Borer and Greenholt",
-    "room": "1510",
+    "name": "Renee Schaden",
+    "room": 4629,
+    "subject": "Beer Inc",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Ahmed Upton",
-    "group": "Connelly LLC",
-    "room": "1099",
+    "name": "Cecile Upton",
+    "room": 3375,
+    "subject": "Bogisich - Hyatt",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Jerald Runolfsson",
-    "group": "Pollich - Jast",
-    "room": "1625",
+    "name": "Leonora Anderson",
+    "room": 3979,
+    "subject": "Green, Franecki and Quitzon",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Dr. Newton Spencer",
-    "group": "Ryan - Fahey",
-    "room": "1610",
+    "name": "Chesley Strosin",
+    "room": 4396,
+    "subject": "Langworth Group",
+    "group": "♥️",
     "isStudent": false
-  },
-  {
-    "name": "Miss Rory Mills",
-    "group": "Kub, Becker and Spinka",
-    "room": "1518",
-    "isStudent": true
   },
   {
-    "name": "Clint Beatty",
-    "group": "Pouros - Emmerich",
-    "room": "1051",
+    "name": "Julian Smitham",
+    "room": 5553,
+    "subject": "Witting, Rohan and Crona",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Rick Borer III",
-    "group": "Jones and Sons",
-    "room": "1572",
+    "name": "Forest Waters",
+    "room": 2432,
+    "subject": "Medhurst - Smitham",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Nickolas Beer",
-    "group": "Berge, Stokes and Ziemann",
-    "room": "1370",
+    "name": "Kole Corwin III",
+    "room": 4150,
+    "subject": "Conroy - Mante",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Idella Swaniawski Sr.",
-    "group": "Bartoletti, Wilkinson and O'Conner",
-    "room": "1210",
+    "name": "Hilton Halvorson",
+    "room": 3597,
+    "subject": "Hane, Thompson and Veum",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Barrett Raynor",
-    "group": "Rowe - Rippin",
-    "room": "1786",
+    "name": "Vesta Conn",
+    "room": 2440,
+    "subject": "Gibson Inc",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Jimmie Sauer",
-    "group": "Kessler, Larson and McCullough",
-    "room": "1013",
-    "isStudent": true
+    "name": "Floyd Glover",
+    "room": 2325,
+    "subject": "Mertz Inc",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Marco Hintz MD",
-    "group": "Douglas LLC",
-    "room": "1238",
+    "name": "Alia Reynolds",
+    "room": 3745,
+    "subject": "Lynch - Bosco",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Aisha Walker",
-    "group": "Swift - Lynch",
-    "room": "1594",
-    "isStudent": true
+    "name": "Elyse Marquardt",
+    "room": 4947,
+    "subject": "Prosacco, Hermann and Corkery",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Felicia Hessel",
-    "group": "Abbott - Haag",
-    "room": "1550",
+    "name": "Alexandria O'Hara",
+    "room": 4671,
+    "subject": "Ryan - Kunze",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Nicolette Kilback",
-    "group": "Friesen, Walker and Mayert",
-    "room": "1021",
+    "name": "Teresa Abshire",
+    "room": 2590,
+    "subject": "Jast, Bogisich and Spencer",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Caroline Willms",
-    "group": "Hintz, O'Connell and McDermott",
-    "room": "1962",
+    "name": "Beulah Hilpert",
+    "room": 4451,
+    "subject": "Greenfelder, Hills and Mann",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Rosa Klein MD",
-    "group": "Hilpert - Blick",
-    "room": "1317",
+    "name": "Josue Medhurst",
+    "room": 2513,
+    "subject": "Nitzsche, Funk and Stiedemann",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Aryanna Jast",
-    "group": "Grimes, Mosciski and Larson",
-    "room": "1145",
-    "isStudent": true
+    "name": "Athena Robel",
+    "room": 2161,
+    "subject": "Spencer and Sons",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Jovanny Wuckert",
-    "group": "Tillman - Cremin",
-    "room": "1279",
+    "name": "Carmella Ferry",
+    "room": 3476,
+    "subject": "Botsford - Schumm",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Coleman Powlowski",
-    "group": "Yost Group",
-    "room": "1807",
-    "isStudent": true
+    "name": "Thurman Hintz",
+    "room": 2736,
+    "subject": "Lynch - Schumm",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Erika Gibson",
-    "group": "Schneider Group",
-    "room": "1278",
+    "name": "Mr. Brett Schulist",
+    "room": 3451,
+    "subject": "Doyle, Shields and Wisoky",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Holden Baumbach",
-    "group": "Schmeler Inc",
-    "room": "1617",
+    "name": "Raphaelle Altenwerth",
+    "room": 4166,
+    "subject": "Fahey, Pfeffer and Langworth",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Nona Reichel",
-    "group": "Dickens - Braun",
-    "room": "1626",
-    "isStudent": false
+    "name": "Kenyon Reilly",
+    "room": 3586,
+    "subject": "Leffler Group",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Vicenta Aufderhar",
-    "group": "Torphy, Rippin and Green",
-    "room": "1582",
+    "name": "Moshe Russel",
+    "room": 5728,
+    "subject": "Monahan - Gleichner",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Brionna Koelpin",
-    "group": "Raynor - Swaniawski",
-    "room": "1833",
+    "name": "Kiera Rutherford",
+    "room": 4356,
+    "subject": "Denesik LLC",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Miss Bette Schulist",
-    "group": "Hettinger, Konopelski and Lehner",
-    "room": "1555",
-    "isStudent": false
+    "name": "Dorcas Schowalter",
+    "room": 5111,
+    "subject": "Reinger - Bartoletti",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Christine Welch",
-    "group": "Hettinger, Will and Smitham",
-    "room": "1836",
-    "isStudent": false
+    "name": "Jasper Hintz",
+    "room": 2151,
+    "subject": "Boyle - Feeney",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Viviane Pagac",
-    "group": "Ullrich Inc",
-    "room": "1162",
+    "name": "Peggie Wisozk Sr.",
+    "room": 5187,
+    "subject": "Johnson Group",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Cynthia Corkery",
-    "group": "Eichmann LLC",
-    "room": "1262",
-    "isStudent": false
+    "name": "Jonathan Fritsch",
+    "room": 2463,
+    "subject": "Schumm - Koepp",
+    "group": "♣️",
+    "isStudent": true
+  },
+  {
+    "name": "Queenie Bernhard",
+    "room": 2719,
+    "subject": "Borer, Hermiston and Roob",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Miss Devon Krajcik",
-    "group": "O'Hara and Sons",
-    "room": "1761",
+    "name": "Dr. Beatrice Ferry",
+    "room": 5497,
+    "subject": "Bernier Inc",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Sasha Goldner",
-    "group": "Swift - DuBuque",
-    "room": "1020",
+    "name": "Mr. Fritz Ruecker",
+    "room": 2866,
+    "subject": "Breitenberg - Mante",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Miss Jamil Little",
-    "group": "Goodwin - Feil",
-    "room": "1699",
+    "name": "Alejandra Mueller",
+    "room": 3495,
+    "subject": "Mann, Boehm and Lowe",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Ms. Dameon Ward",
-    "group": "Conroy - Smith",
-    "room": "1030",
+    "name": "Darrell Mosciski",
+    "room": 4642,
+    "subject": "Schowalter, Cronin and Hilpert",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Lorine Cartwright",
-    "group": "Jenkins - Bode",
-    "room": "1737",
+    "name": "Aliza Wilkinson",
+    "room": 5122,
+    "subject": "Christiansen, Simonis and Heidenreich",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Antonia Rolfson",
-    "group": "Harris - Renner",
-    "room": "1006",
-    "isStudent": true
+    "name": "Demetrius Lueilwitz",
+    "room": 2704,
+    "subject": "Marquardt Group",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Lamar Davis",
-    "group": "Lehner Inc",
-    "room": "1643",
-    "isStudent": true
+    "name": "Torrey Kshlerin",
+    "room": 4538,
+    "subject": "Maggio, Jaskolski and Goodwin",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Cora Crist",
-    "group": "Herman - Koelpin",
-    "room": "1308",
+    "name": "Franz Adams",
+    "room": 2427,
+    "subject": "Zboncak LLC",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Durward Sauer",
-    "group": "Erdman, Runolfsdottir and Vandervort",
-    "room": "1975",
+    "name": "Israel Howe",
+    "room": 4173,
+    "subject": "Will - Gibson",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Mr. Art Ritchie",
-    "group": "Abernathy, Franecki and Balistreri",
-    "room": "1502",
+    "name": "Meredith Leffler III",
+    "room": 5585,
+    "subject": "Jones - Connelly",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Tiara Becker",
-    "group": "Prohaska LLC",
-    "room": "1724",
+    "name": "Lavada Nikolaus",
+    "room": 3670,
+    "subject": "O'Connell Group",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Dr. Luna Langworth",
-    "group": "Moore LLC",
-    "room": "1549",
+    "name": "Ada Quigley",
+    "room": 5873,
+    "subject": "Bruen, Hermiston and Schneider",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Jason Schmeler",
-    "group": "Stanton, Renner and Watsica",
-    "room": "1965",
+    "name": "Amari West",
+    "room": 5405,
+    "subject": "Wisoky Group",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Grady Rolfson",
-    "group": "Runolfsson and Sons",
-    "room": "1831",
+    "name": "Daphnee Hagenes",
+    "room": 2734,
+    "subject": "Veum Inc",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Cristal MacGyver",
-    "group": "Hettinger Group",
-    "room": "1428",
-    "isStudent": true
+    "name": "Isobel Dickens",
+    "room": 5062,
+    "subject": "Lemke - Wiza",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Elmira King DDS",
-    "group": "Schulist, Jacobi and Terry",
-    "room": "1935",
+    "name": "Bethany Goodwin",
+    "room": 4206,
+    "subject": "Beatty and Sons",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Vada Kutch",
-    "group": "Feil and Sons",
-    "room": "1776",
-    "isStudent": false
+    "name": "Ms. Helen Wilkinson",
+    "room": 3785,
+    "subject": "Daugherty, Swaniawski and Sporer",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Alphonso Runolfsdottir",
-    "group": "White, Block and Altenwerth",
-    "room": "1741",
+    "name": "Agnes Ullrich",
+    "room": 4530,
+    "subject": "Moen, Douglas and Pouros",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Tyrell Ferry",
-    "group": "Kulas Group",
-    "room": "1738",
+    "name": "Kyler Reichel",
+    "room": 3323,
+    "subject": "Luettgen LLC",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Joanny Gerlach",
-    "group": "Veum - Stanton",
-    "room": "1940",
+    "name": "Brett Hauck",
+    "room": 4270,
+    "subject": "Spencer - Jenkins",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Carter Schamberger",
-    "group": "Doyle, Wuckert and O'Hara",
-    "room": "1149",
-    "isStudent": true
+    "name": "Emmy Dickinson",
+    "room": 4312,
+    "subject": "Bernier, Sauer and Langosh",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Raymond Spinka",
-    "group": "Jenkins - Pfannerstill",
-    "room": "1443",
-    "isStudent": true
+    "name": "Carolyn Hoeger",
+    "room": 2615,
+    "subject": "Feeney Inc",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Werner Hane",
-    "group": "Hoppe LLC",
-    "room": "1709",
+    "name": "Rachel Zulauf",
+    "room": 3036,
+    "subject": "Wiza, Ortiz and Rau",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Ms. Scarlett Farrell",
-    "group": "Auer, Gislason and Kihn",
-    "room": "1763",
+    "name": "Rosanna Little",
+    "room": 3517,
+    "subject": "Leannon, Feeney and O'Hara",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Lawson Wintheiser",
-    "group": "Wiza LLC",
-    "room": "1914",
-    "isStudent": false
+    "name": "Camren Schamberger",
+    "room": 2709,
+    "subject": "Bayer - Grady",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Mrs. Arlie Upton",
-    "group": "Koelpin, Koch and Hilll",
-    "room": "1686",
+    "name": "Deonte D'Amore",
+    "room": 5162,
+    "subject": "Hartmann - Wiegand",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Jalon MacGyver",
-    "group": "Upton - Green",
-    "room": "1533",
+    "name": "Mckenna Runolfsson",
+    "room": 3272,
+    "subject": "Boehm Group",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Mrs. Brando Heidenreich",
-    "group": "Terry - Gulgowski",
-    "room": "1419",
+    "name": "Cayla Wiza",
+    "room": 5361,
+    "subject": "Langosh - Lynch",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Frankie Kovacek II",
-    "group": "Ziemann, Nicolas and Koelpin",
-    "room": "1670",
-    "isStudent": false
+    "name": "Lavada Orn",
+    "room": 5502,
+    "subject": "Flatley - West",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Mr. Raleigh Koepp",
-    "group": "McGlynn - Brown",
-    "room": "1969",
+    "name": "Alejandrin Roberts",
+    "room": 4688,
+    "subject": "Stanton - Hahn",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Charley Moen",
-    "group": "Mayert - Turcotte",
-    "room": "1354",
+    "name": "Forrest Herzog",
+    "room": 2726,
+    "subject": "Schaden LLC",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Garth Leannon",
-    "group": "Streich - Hodkiewicz",
-    "room": "1229",
+    "name": "Brionna Mitchell",
+    "room": 4579,
+    "subject": "Greenholt, Casper and Runolfsdottir",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Hipolito Wiegand",
-    "group": "O'Hara - Hudson",
-    "room": "1911",
-    "isStudent": true
+    "name": "Caden Murazik",
+    "room": 3547,
+    "subject": "Weimann - Turner",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Vivien Bailey",
-    "group": "Gerlach - Dietrich",
-    "room": "1914",
+    "name": "Kaelyn Spencer",
+    "room": 4685,
+    "subject": "Rohan - Heidenreich",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Emmy Anderson",
-    "group": "Schinner, Waelchi and Botsford",
-    "room": "1682",
+    "name": "Leonard Hirthe",
+    "room": 3203,
+    "subject": "Cormier - VonRueden",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Ms. Otha Boehm",
-    "group": "Cole, Swift and Daugherty",
-    "room": "1296",
+    "name": "Norberto Kessler",
+    "room": 3868,
+    "subject": "Lind and Sons",
+    "group": "♥️",
+    "isStudent": true
+  },
+  {
+    "name": "Marlene Jaskolski",
+    "room": 3125,
+    "subject": "Roberts - Daniel",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Greg Paucek III",
-    "group": "Renner, McKenzie and Treutel",
-    "room": "1649",
+    "name": "Josh Mosciski",
+    "room": 2438,
+    "subject": "Wilkinson - Sawayn",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Katharina Haley",
-    "group": "Koch - Dare",
-    "room": "1783",
-    "isStudent": true
+    "name": "Cale O'Connell DVM",
+    "room": 5802,
+    "subject": "Bogisich - Walker",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Adan Stoltenberg",
-    "group": "Kessler LLC",
-    "room": "1146",
+    "name": "Nicklaus Lakin",
+    "room": 5869,
+    "subject": "Kemmer and Sons",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Mr. Chet Yundt",
-    "group": "Powlowski - Tromp",
-    "room": "1221",
-    "isStudent": true
+    "name": "Enrico Hartmann",
+    "room": 5426,
+    "subject": "Pouros Inc",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Angel Johnson",
-    "group": "Rogahn - Ritchie",
-    "room": "1299",
+    "name": "Lonnie Carter",
+    "room": 4563,
+    "subject": "Hoppe Inc",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Reyes Rolfson",
-    "group": "Gottlieb, Ryan and Wyman",
-    "room": "1259",
+    "name": "Domingo Watsica",
+    "room": 3787,
+    "subject": "Reichert Group",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Maiya Feest Jr.",
-    "group": "Cummings, Pouros and Stracke",
-    "room": "1673",
+    "name": "Letha Morar",
+    "room": 4064,
+    "subject": "Stiedemann Inc",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Robert Maggio",
-    "group": "Feil Group",
-    "room": "1079",
+    "name": "Leif White",
+    "room": 3705,
+    "subject": "Pfeffer Inc",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Garfield Jacobson",
-    "group": "Gorczany - Kassulke",
-    "room": "1376",
-    "isStudent": false
+    "name": "Destany Carter",
+    "room": 5064,
+    "subject": "Hettinger Inc",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Xavier Hintz",
-    "group": "Gusikowski, Kunze and Blick",
-    "room": "1959",
+    "name": "Dr. Tobin Feest",
+    "room": 5448,
+    "subject": "Thompson - Skiles",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Anjali Hartmann",
-    "group": "Balistreri Inc",
-    "room": "1405",
+    "name": "Caesar Considine II",
+    "room": 4159,
+    "subject": "Langosh - Reynolds",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Antoinette Block",
-    "group": "Kuhlman, Keeling and Dooley",
-    "room": "1169",
+    "name": "Miss Johan Kirlin",
+    "room": 3915,
+    "subject": "Fisher - Littel",
+    "group": "♣️",
     "isStudent": true
-  },
-  {
-    "name": "Brooke Schoen",
-    "group": "MacGyver LLC",
-    "room": "1972",
-    "isStudent": false
   },
   {
-    "name": "Vinnie Mayert",
-    "group": "Orn - Stracke",
-    "room": "1928",
+    "name": "Stephon Reilly",
+    "room": 3533,
+    "subject": "O'Hara and Sons",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Israel Crist",
-    "group": "Windler - Thiel",
-    "room": "1036",
+    "name": "Adolf Stiedemann",
+    "room": 5269,
+    "subject": "Roob, Spinka and Lebsack",
+    "group": "♣️",
     "isStudent": false
-  },
-  {
-    "name": "Treva Dietrich",
-    "group": "Hoeger and Sons",
-    "room": "1519",
-    "isStudent": true
   },
   {
-    "name": "Wilford Beier",
-    "group": "Flatley - Schuppe",
-    "room": "1686",
+    "name": "Kayley Lang",
+    "room": 4274,
+    "subject": "Swaniawski - Ankunding",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Pierce Johnson",
-    "group": "Olson Group",
-    "room": "1317",
+    "name": "Mr. Jacquelyn Purdy",
+    "room": 2879,
+    "subject": "Shields - Murazik",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Ms. Ismael West",
-    "group": "Wintheiser Inc",
-    "room": "1034",
+    "name": "Jillian Crooks",
+    "room": 5969,
+    "subject": "Lubowitz Group",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Peyton Zieme",
-    "group": "Grady, O'Kon and Kshlerin",
-    "room": "1583",
+    "name": "Dakota Bosco",
+    "room": 5015,
+    "subject": "Cruickshank Group",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Shany Kshlerin",
-    "group": "Corkery, Kohler and Strosin",
-    "room": "1681",
+    "name": "Wilmer Bosco",
+    "room": 5233,
+    "subject": "Fay, Beahan and Langosh",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Cristopher Corwin",
-    "group": "Franecki - Anderson",
-    "room": "1037",
+    "name": "Mrs. Hadley Abernathy",
+    "room": 4889,
+    "subject": "DuBuque Inc",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Melyssa Hickle",
-    "group": "Grant - Nader",
-    "room": "1341",
+    "name": "Tito Botsford I",
+    "room": 4994,
+    "subject": "Rodriguez, West and Kessler",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Mrs. Augusta Heaney",
-    "group": "Bergnaum - Botsford",
-    "room": "1831",
+    "name": "Johnathan Armstrong",
+    "room": 4008,
+    "subject": "Rowe - Tromp",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Shany Kessler",
-    "group": "Jast LLC",
-    "room": "1775",
+    "name": "Rebekah Heathcote",
+    "room": 5347,
+    "subject": "Gleichner - Lockman",
+    "group": "♣️",
     "isStudent": false
-  },
-  {
-    "name": "Jarrod Renner",
-    "group": "Walsh Inc",
-    "room": "1249",
-    "isStudent": true
   },
   {
-    "name": "Lauriane Swaniawski",
-    "group": "Glover - Lind",
-    "room": "1368",
+    "name": "Cecil Cremin",
+    "room": 2147,
+    "subject": "Medhurst, Hudson and Nicolas",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Lisa Jaskolski",
-    "group": "Lehner Group",
-    "room": "1126",
+    "name": "Barney Schimmel Jr.",
+    "room": 5826,
+    "subject": "Homenick, Roberts and Parisian",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Antonette Gislason",
-    "group": "Goldner - Kuvalis",
-    "room": "1127",
-    "isStudent": false
+    "name": "Tina Kemmer",
+    "room": 3292,
+    "subject": "Dicki, Cronin and Baumbach",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Emely McDermott",
-    "group": "Kihn - Sanford",
-    "room": "1743",
+    "name": "Helmer Yundt",
+    "room": 5745,
+    "subject": "Steuber LLC",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Barbara Kihn",
-    "group": "Morar and Sons",
-    "room": "1902",
-    "isStudent": true
+    "name": "Herbert Mayer",
+    "room": 4528,
+    "subject": "Heathcote - Pagac",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Shayna Eichmann Sr.",
-    "group": "Will, Schowalter and Marks",
-    "room": "1036",
-    "isStudent": true
+    "name": "Zita Macejkovic",
+    "room": 2385,
+    "subject": "D'Amore Inc",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Elisa Hoppe",
-    "group": "Wilkinson - Batz",
-    "room": "1860",
+    "name": "David Upton II",
+    "room": 5743,
+    "subject": "Schmitt, Torp and Brakus",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Marietta Blanda V",
-    "group": "McCullough - Reichert",
-    "room": "1428",
+    "name": "Louisa Sporer",
+    "room": 4080,
+    "subject": "Ryan - Huels",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Jammie Bogan",
-    "group": "Lind - Doyle",
-    "room": "1719",
+    "name": "Godfrey Medhurst IV",
+    "room": 5299,
+    "subject": "Funk and Sons",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Lorenz Baumbach",
-    "group": "Sauer, Daugherty and Eichmann",
-    "room": "1930",
-    "isStudent": true
+    "name": "Angeline Dibbert",
+    "room": 2783,
+    "subject": "Hamill Inc",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Darrick Schowalter",
-    "group": "Parker Group",
-    "room": "1055",
+    "name": "Joshuah King",
+    "room": 5537,
+    "subject": "Runolfsson - Koss",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Susanna Kuhic",
-    "group": "Waters - Wiegand",
-    "room": "1709",
+    "name": "Erick Price",
+    "room": 2011,
+    "subject": "Schuster - Weber",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Linda Metz DDS",
-    "group": "Labadie Group",
-    "room": "1903",
-    "isStudent": false
+    "name": "Jedediah Grimes",
+    "room": 4653,
+    "subject": "Conroy, Wiza and O'Keefe",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Leola Frami",
-    "group": "Smitham - Zulauf",
-    "room": "1080",
+    "name": "Pink Reinger",
+    "room": 2324,
+    "subject": "Dare Inc",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Quinton Shanahan",
-    "group": "Zieme, Shields and Conroy",
-    "room": "1558",
+    "name": "Jazmin Schoen DDS",
+    "room": 4925,
+    "subject": "Gerhold, Mayer and Schamberger",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Odessa Donnelly",
-    "group": "Strosin, Bashirian and Nikolaus",
-    "room": "1847",
+    "name": "Laila Kohler",
+    "room": 3707,
+    "subject": "Koss, Abernathy and Hintz",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Abe Keebler",
-    "group": "Carroll Group",
-    "room": "1387",
-    "isStudent": true
+    "name": "Idella Predovic",
+    "room": 5416,
+    "subject": "Romaguera - O'Connell",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Justus Kertzmann",
-    "group": "Schuster - Johnson",
-    "room": "1269",
+    "name": "Eulalia Schulist DDS",
+    "room": 2313,
+    "subject": "Stroman - DuBuque",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Tremayne Nicolas",
-    "group": "Graham Group",
-    "room": "1648",
-    "isStudent": false
+    "name": "Danielle Heathcote II",
+    "room": 5052,
+    "subject": "Osinski Inc",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Madelyn Anderson",
-    "group": "Bartoletti - Becker",
-    "room": "1191",
+    "name": "Rowland Murray",
+    "room": 2861,
+    "subject": "Herzog, Bahringer and Satterfield",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Arlie Emard MD",
-    "group": "Wilkinson, Hettinger and Ritchie",
-    "room": "1822",
+    "name": "Dolores Doyle",
+    "room": 2226,
+    "subject": "O'Conner, Toy and Cremin",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Vida Mertz",
-    "group": "Windler - Nolan",
-    "room": "1700",
+    "name": "Eden Greenholt",
+    "room": 3400,
+    "subject": "Ernser - West",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Nestor Hirthe",
-    "group": "Prohaska, Grimes and Stokes",
-    "room": "1724",
-    "isStudent": true
+    "name": "Beau Kirlin",
+    "room": 5693,
+    "subject": "Beatty, Ratke and Hegmann",
+    "group": "♣️",
+    "isStudent": false
   },
   {
-    "name": "Roberto Nienow",
-    "group": "Kohler, Cormier and Stroman",
-    "room": "1330",
+    "name": "Marjory Dickens",
+    "room": 2566,
+    "subject": "Larkin, Ebert and Price",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Stanton Cummings",
-    "group": "Sawayn - Botsford",
-    "room": "1556",
+    "name": "Marley Braun",
+    "room": 4529,
+    "subject": "Bahringer - Rolfson",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Adrian Kulas I",
-    "group": "Shanahan - Hudson",
-    "room": "1353",
-    "isStudent": false
+    "name": "Malvina Hessel",
+    "room": 4662,
+    "subject": "Feeney, Collier and Feeney",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Skylar Stehr",
-    "group": "Collier, Bednar and Gottlieb",
-    "room": "1927",
-    "isStudent": true
+    "name": "Alanna Berge",
+    "room": 4471,
+    "subject": "Crist, Bednar and O'Kon",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Gregorio Bogisich",
-    "group": "DuBuque, Beahan and Reilly",
-    "room": "1988",
+    "name": "Viviane Purdy",
+    "room": 3537,
+    "subject": "Murphy LLC",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Karli Price",
-    "group": "Glover LLC",
-    "room": "1967",
+    "name": "Ashlynn White IV",
+    "room": 3009,
+    "subject": "Russel, Dare and Runolfsdottir",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Kacey Harvey",
-    "group": "Hills, Dach and O'Conner",
-    "room": "1174",
+    "name": "Miss Allison Thiel",
+    "room": 5342,
+    "subject": "Hagenes LLC",
+    "group": "♣️",
     "isStudent": false
+  },
+  {
+    "name": "Jaleel Gibson II",
+    "room": 2841,
+    "subject": "Conn - Nitzsche",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Dr. Carmel Heathcote",
-    "group": "Wilkinson Group",
-    "room": "1944",
+    "name": "Mckayla Schultz",
+    "room": 2254,
+    "subject": "Denesik, Frami and Strosin",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Hardy West",
-    "group": "Adams - McGlynn",
-    "room": "1143",
+    "name": "Jimmie Mosciski DVM",
+    "room": 4687,
+    "subject": "Hirthe - Halvorson",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Cicero Kohler",
-    "group": "Grant - Schiller",
-    "room": "1601",
+    "name": "Pearlie D'Amore",
+    "room": 4646,
+    "subject": "Koelpin, Pacocha and Stroman",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Oren Crona",
-    "group": "Schultz, Crist and Carter",
-    "room": "1665",
+    "name": "Javonte Casper",
+    "room": 5487,
+    "subject": "Olson, Hessel and Deckow",
+    "group": "♥️",
     "isStudent": false
+  },
+  {
+    "name": "Vinnie Beahan",
+    "room": 3310,
+    "subject": "Daniel Inc",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Lamar Stroman",
-    "group": "McClure, Abbott and Langosh",
-    "room": "1358",
+    "name": "April Sauer",
+    "room": 3620,
+    "subject": "Swaniawski Inc",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Orin Larson",
-    "group": "Emard - Schneider",
-    "room": "1108",
-    "isStudent": true
+    "name": "Skylar Monahan",
+    "room": 2539,
+    "subject": "Heaney, Hintz and Balistreri",
+    "group": "♥️",
+    "isStudent": false
   },
   {
-    "name": "Meda Eichmann",
-    "group": "Fahey - Rolfson",
-    "room": "1189",
+    "name": "Dr. Garnet Yundt",
+    "room": 3872,
+    "subject": "Orn Inc",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Dortha Jenkins",
-    "group": "Beier - Kunde",
-    "room": "1185",
+    "name": "Florence Hamill PhD",
+    "room": 4780,
+    "subject": "Lubowitz, Ratke and Prosacco",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Zoe Windler I",
-    "group": "Bernier and Sons",
-    "room": "1313",
+    "name": "Melisa Homenick",
+    "room": 3583,
+    "subject": "Berge - Mayer",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Cordelia Satterfield",
-    "group": "Hahn Group",
-    "room": "1891",
-    "isStudent": true
+    "name": "Karen O'Kon",
+    "room": 2918,
+    "subject": "Mann, Lesch and Bartell",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Lila Hickle",
-    "group": "Ullrich, Greenfelder and Crist",
-    "room": "1903",
+    "name": "Enos Larson",
+    "room": 4032,
+    "subject": "Jaskolski and Sons",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Lucie Stracke",
-    "group": "Klocko Inc",
-    "room": "1862",
+    "name": "Zola Abshire",
+    "room": 3775,
+    "subject": "Erdman - Altenwerth",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Franco O'Keefe",
-    "group": "Block Group",
-    "room": "1947",
+    "name": "Viva Smith II",
+    "room": 2544,
+    "subject": "Cummings and Sons",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Fleta Kutch",
-    "group": "O'Hara - Will",
-    "room": "1945",
+    "name": "Joshua Crona",
+    "room": 2242,
+    "subject": "Marvin - Gislason",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Favian Fay",
-    "group": "Fritsch - Watsica",
-    "room": "1656",
+    "name": "Nayeli Yundt",
+    "room": 2435,
+    "subject": "Collins - Parisian",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Coleman Raynor",
-    "group": "Dibbert, Torphy and Ward",
-    "room": "1556",
+    "name": "Anissa Haag",
+    "room": 4959,
+    "subject": "Borer - Bailey",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Lafayette Mante",
-    "group": "Kunze, Emard and Wyman",
-    "room": "1379",
+    "name": "Mia Fisher",
+    "room": 3306,
+    "subject": "Blanda, Mertz and Crooks",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Mrs. Adelia Pollich",
-    "group": "Konopelski - Stracke",
-    "room": "1220",
-    "isStudent": false
+    "name": "Lelah Medhurst MD",
+    "room": 4121,
+    "subject": "Dietrich, Carroll and Nicolas",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Johann Wisoky III",
-    "group": "Corwin and Sons",
-    "room": "1127",
+    "name": "Braden Baumbach Jr.",
+    "room": 4451,
+    "subject": "Blanda, Fisher and Ziemann",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Parker Monahan",
-    "group": "Wehner LLC",
-    "room": "1075",
+    "name": "Lane Corwin",
+    "room": 3221,
+    "subject": "Walsh, Toy and Swift",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Velda Haley",
-    "group": "Zieme - Lind",
-    "room": "1471",
-    "isStudent": false
+    "name": "Kaycee Ledner",
+    "room": 4266,
+    "subject": "Nicolas Inc",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Etha Kessler",
-    "group": "Bayer and Sons",
-    "room": "1657",
-    "isStudent": false
+    "name": "Jonas Steuber",
+    "room": 4755,
+    "subject": "Bayer Group",
+    "group": "♦️",
+    "isStudent": true
+  },
+  {
+    "name": "Boyd Hessel",
+    "room": 3367,
+    "subject": "Luettgen, Casper and Waelchi",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Reid Morissette",
-    "group": "Nienow, Casper and Bernhard",
-    "room": "1528",
+    "name": "Skylar Powlowski",
+    "room": 4928,
+    "subject": "Reichel Inc",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Adalberto Berge",
-    "group": "Wiza - Becker",
-    "room": "1392",
+    "name": "Louisa Altenwerth",
+    "room": 5121,
+    "subject": "Turner Inc",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Savannah Wilderman PhD",
-    "group": "Murazik Group",
-    "room": "1798",
+    "name": "Mr. Frank Kuhic",
+    "room": 5858,
+    "subject": "Hayes - Roberts",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Wendell Denesik",
-    "group": "Purdy Group",
-    "room": "1992",
+    "name": "Arjun Sauer",
+    "room": 4721,
+    "subject": "Gusikowski, Feil and Skiles",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Mr. Johathan Schoen",
-    "group": "Collins, Schmidt and Kreiger",
-    "room": "1713",
-    "isStudent": false
+    "name": "Miss Mitchel Lueilwitz",
+    "room": 5814,
+    "subject": "Koelpin - Turcotte",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Fredy Hettinger",
-    "group": "Ziemann, Ortiz and Monahan",
-    "room": "1995",
+    "name": "Lorna Hahn",
+    "room": 3857,
+    "subject": "Lockman - Rogahn",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Lexus Trantow",
-    "group": "O'Conner Group",
-    "room": "1656",
-    "isStudent": false
+    "name": "Amya Torphy",
+    "room": 3937,
+    "subject": "Labadie Group",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Alfonso Harris",
-    "group": "Reichert - Raynor",
-    "room": "1426",
+    "name": "Bobby Dare",
+    "room": 5287,
+    "subject": "Hand Inc",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Irwin Will",
-    "group": "Stoltenberg, Rodriguez and Dickinson",
-    "room": "1764",
-    "isStudent": true
-  },
-  {
-    "name": "Magdalen Gusikowski",
-    "group": "Howell Inc",
-    "room": "1251",
+    "name": "Piper Emard",
+    "room": 2981,
+    "subject": "Stokes, Anderson and Pollich",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Catherine Hamill",
-    "group": "Gerlach - Blick",
-    "room": "1920",
-    "isStudent": false
+    "name": "Jazmyne Mante PhD",
+    "room": 2670,
+    "subject": "Bailey, Hyatt and Kuhn",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Kelli Rath",
-    "group": "Rau Group",
-    "room": "1312",
+    "name": "Miss Retha Hoppe",
+    "room": 3319,
+    "subject": "Jerde, Stoltenberg and Stroman",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Vinnie Swift Sr.",
-    "group": "Grimes - Ferry",
-    "room": "1549",
-    "isStudent": false
+    "name": "Omer Schimmel",
+    "room": 3348,
+    "subject": "Barton Inc",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Gail Herzog",
-    "group": "Mitchell and Sons",
-    "room": "1394",
+    "name": "Aniyah O'Keefe",
+    "room": 2672,
+    "subject": "Nikolaus, Auer and Kertzmann",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Layne VonRueden",
-    "group": "Hudson - Zieme",
-    "room": "1011",
+    "name": "Celestino Bahringer",
+    "room": 3151,
+    "subject": "Boyle Group",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Luz Ratke",
-    "group": "Doyle, Will and Lang",
-    "room": "1453",
+    "name": "Kyleigh Lynch IV",
+    "room": 2824,
+    "subject": "Becker - Lang",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Cecelia Gleason",
-    "group": "Ledner Inc",
-    "room": "1711",
+    "name": "Lucie Kilback",
+    "room": 3547,
+    "subject": "Cronin - McClure",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Eliezer Kautzer",
-    "group": "Rohan, Daugherty and Gutkowski",
-    "room": "1332",
+    "name": "Nico Watsica",
+    "room": 4078,
+    "subject": "Ondricka Inc",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Adolph McDermott DVM",
-    "group": "Buckridge, Nienow and Kovacek",
-    "room": "1048",
+    "name": "Antonina Legros DVM",
+    "room": 3682,
+    "subject": "Grimes LLC",
+    "group": "♠️",
     "isStudent": false
   },
   {
-    "name": "Chesley Hills",
-    "group": "Kertzmann - Balistreri",
-    "room": "1196",
+    "name": "Morton Oberbrunner",
+    "room": 3837,
+    "subject": "Robel, Spencer and Homenick",
+    "group": "♣️",
     "isStudent": false
-  },
-  {
-    "name": "Ezra Ebert",
-    "group": "Bogisich - Kemmer",
-    "room": "1902",
-    "isStudent": true
   },
   {
-    "name": "Kenneth Bernhard",
-    "group": "Homenick LLC",
-    "room": "1778",
+    "name": "Euna Schultz",
+    "room": 2414,
+    "subject": "Kutch Group",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Jaylon Jacobi",
-    "group": "Heathcote - Prosacco",
-    "room": "1336",
-    "isStudent": false
+    "name": "Stan Kshlerin",
+    "room": 3068,
+    "subject": "Bogan, Pfannerstill and Pouros",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Gilberto Toy",
-    "group": "Parisian and Sons",
-    "room": "1577",
+    "name": "Judah Emmerich MD",
+    "room": 4551,
+    "subject": "Stanton Inc",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Mrs. Diego West",
-    "group": "Hermann - Waters",
-    "room": "1141",
+    "name": "Antonina Larkin IV",
+    "room": 4260,
+    "subject": "Windler - Raynor",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Mariah Kuhic",
-    "group": "Friesen, Reichel and Boyer",
-    "room": "1510",
+    "name": "Kaylin Fahey",
+    "room": 5770,
+    "subject": "Turcotte, Kunze and Harris",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Rachelle Reichert",
-    "group": "Abbott, Schuppe and Conn",
-    "room": "1430",
+    "name": "Kirstin Ruecker",
+    "room": 4424,
+    "subject": "Streich Group",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Annetta Rohan",
-    "group": "Rempel - Orn",
-    "room": "1740",
+    "name": "Tomas Daniel",
+    "room": 4949,
+    "subject": "Willms and Sons",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Vicky Harris III",
-    "group": "Little and Sons",
-    "room": "1802",
+    "name": "Ms. Isaiah Schinner",
+    "room": 4671,
+    "subject": "Kuhic Inc",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "April Rowe",
-    "group": "Hahn, Murphy and Watsica",
-    "room": "1820",
+    "name": "Dr. Tyra Feil",
+    "room": 5234,
+    "subject": "Bradtke Inc",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Gennaro Wolff",
-    "group": "Hamill - Nitzsche",
-    "room": "1942",
+    "name": "Jasen VonRueden",
+    "room": 5933,
+    "subject": "Block - Rath",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Miss Marcus Senger",
-    "group": "Rath Inc",
-    "room": "1013",
+    "name": "Avis Koelpin DDS",
+    "room": 3766,
+    "subject": "Fahey - Abshire",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Tristian O'Hara",
-    "group": "Murphy, Hermann and Mosciski",
-    "room": "1973",
-    "isStudent": true
+    "name": "Tracey Glover",
+    "room": 4652,
+    "subject": "Schmitt Group",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Efrain Nikolaus",
-    "group": "Donnelly - Murazik",
-    "room": "1795",
+    "name": "Janelle Toy",
+    "room": 5410,
+    "subject": "Brown, Ferry and Monahan",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Lelah Bahringer",
-    "group": "Little, Dare and Sipes",
-    "room": "1686",
+    "name": "Allison Morar",
+    "room": 3048,
+    "subject": "Koch Group",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Lenny Wunsch",
-    "group": "Rath LLC",
-    "room": "1569",
+    "name": "Velva Johnston DVM",
+    "room": 4078,
+    "subject": "Kautzer Inc",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Pauline Effertz",
-    "group": "Runte - Senger",
-    "room": "1382",
-    "isStudent": false
+    "name": "Evie Gorczany",
+    "room": 3573,
+    "subject": "Zulauf, Stiedemann and Stokes",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Reid Yost",
-    "group": "Rogahn and Sons",
-    "room": "1004",
+    "name": "Adrianna Cummings",
+    "room": 3744,
+    "subject": "Schamberger - Champlin",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Earnest Farrell",
-    "group": "Prosacco Inc",
-    "room": "1421",
+    "name": "Quinton Daugherty",
+    "room": 5754,
+    "subject": "Weissnat Inc",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Karolann Terry",
-    "group": "Fay, Fadel and Dooley",
-    "room": "1875",
+    "name": "Izabella Gutmann MD",
+    "room": 4888,
+    "subject": "Walker, Fahey and Gleason",
+    "group": "♥️",
     "isStudent": true
   },
   {
-    "name": "Leone Boehm V",
-    "group": "Leuschke - MacGyver",
-    "room": "1011",
+    "name": "Lamar Berge",
+    "room": 5980,
+    "subject": "Lowe LLC",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Josh Kutch",
-    "group": "Gislason - Stokes",
-    "room": "1847",
-    "isStudent": true
-  },
-  {
-    "name": "Mrs. Estella Kovacek",
-    "group": "Hammes - Kris",
-    "room": "1238",
+    "name": "Juwan Mosciski",
+    "room": 3405,
+    "subject": "Runolfsdottir, Monahan and Bradtke",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Thurman Cartwright",
-    "group": "Altenwerth, Pfannerstill and Osinski",
-    "room": "1474",
-    "isStudent": false
+    "name": "Bonita Maggio",
+    "room": 2601,
+    "subject": "Kling - Jaskolski",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Gino Lubowitz III",
-    "group": "Friesen - Halvorson",
-    "room": "1961",
-    "isStudent": false
+    "name": "Miss Simone Hoeger",
+    "room": 4886,
+    "subject": "Ryan Inc",
+    "group": "♠️",
+    "isStudent": true
   },
   {
-    "name": "Augusta Harber",
-    "group": "Walker - Nikolaus",
-    "room": "1111",
-    "isStudent": false
+    "name": "Cleveland Cole",
+    "room": 4409,
+    "subject": "Fahey - Schmitt",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Arvilla Marks",
-    "group": "Raynor, Daugherty and Green",
-    "room": "1981",
+    "name": "Wayne Goldner",
+    "room": 2502,
+    "subject": "Pollich, Brakus and Littel",
+    "group": "♠️",
     "isStudent": true
   },
   {
-    "name": "Travon Smitham",
-    "group": "Waelchi Group",
-    "room": "1369",
-    "isStudent": false
+    "name": "Royal Monahan",
+    "room": 5034,
+    "subject": "Medhurst - Connelly",
+    "group": "♣️",
+    "isStudent": true
   },
   {
-    "name": "Miss Hillary Hackett",
-    "group": "Harber LLC",
-    "room": "1778",
+    "name": "Nasir Roberts",
+    "room": 3733,
+    "subject": "Denesik - Pagac",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Carole Boyle",
-    "group": "Abshire - Kilback",
-    "room": "1129",
-    "isStudent": true
+    "name": "Deonte Beatty",
+    "room": 4443,
+    "subject": "Beier Group",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Ellie Prohaska",
-    "group": "Cremin - Waelchi",
-    "room": "1832",
+    "name": "Miss Vern Will",
+    "room": 4054,
+    "subject": "Batz - Kozey",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Modesto Nolan II",
-    "group": "Becker Group",
-    "room": "1373",
+    "name": "Narciso Pacocha IV",
+    "room": 3421,
+    "subject": "Feil, Nienow and Waelchi",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Sonia Willms",
-    "group": "Nikolaus - Kuvalis",
-    "room": "1373",
+    "name": "Simeon Baumbach",
+    "room": 5651,
+    "subject": "Bednar, Labadie and Dickinson",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Berneice Gutmann",
-    "group": "Lakin, Hauck and Russel",
-    "room": "1152",
-    "isStudent": true
+    "name": "Daniela Sawayn",
+    "room": 4158,
+    "subject": "Schultz and Sons",
+    "group": "♦️",
+    "isStudent": false
   },
   {
-    "name": "Otto Wilderman",
-    "group": "Miller Inc",
-    "room": "1605",
+    "name": "Eloise Hartmann V",
+    "room": 5864,
+    "subject": "Boyle - Buckridge",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Cyril Dooley",
-    "group": "Walsh - Quigley",
-    "room": "1456",
-    "isStudent": false
+    "name": "Virgil Konopelski",
+    "room": 3104,
+    "subject": "Koss Group",
+    "group": "♦️",
+    "isStudent": true
   },
   {
-    "name": "Ally Hagenes",
-    "group": "Sipes Group",
-    "room": "1346",
+    "name": "Keyshawn Hirthe",
+    "room": 5446,
+    "subject": "Heaney, Howell and Conn",
+    "group": "♣️",
     "isStudent": false
   },
   {
-    "name": "Jevon Kuphal",
-    "group": "Labadie and Sons",
-    "room": "1610",
+    "name": "Dominique Erdman",
+    "room": 4491,
+    "subject": "Rippin, Conn and Cummerata",
+    "group": "♦️",
     "isStudent": true
   },
   {
-    "name": "Adolph Mosciski I",
-    "group": "Nader Inc",
-    "room": "1622",
+    "name": "Sadye Will PhD",
+    "room": 4185,
+    "subject": "Ryan, Miller and Walker",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Elody Hodkiewicz",
-    "group": "Prohaska - Barton",
-    "room": "1101",
+    "name": "Ulices Spencer",
+    "room": 3401,
+    "subject": "Robel - Hermiston",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Remington Bosco",
-    "group": "Wilkinson and Sons",
-    "room": "1144",
+    "name": "Mr. Marcia Klocko",
+    "room": 5762,
+    "subject": "Mertz, Fay and Hagenes",
+    "group": "♥️",
     "isStudent": false
   },
   {
-    "name": "Brandon Johnston",
-    "group": "Stracke Inc",
-    "room": "1853",
-    "isStudent": false
+    "name": "Dariana DuBuque",
+    "room": 3592,
+    "subject": "Muller Group",
+    "group": "♥️",
+    "isStudent": true
   },
   {
-    "name": "Chet Cummerata",
-    "group": "Kuvalis, Abshire and Reichert",
-    "room": "1710",
+    "name": "Laverna Leannon",
+    "room": 5885,
+    "subject": "Abbott LLC",
+    "group": "♦️",
     "isStudent": false
   },
   {
-    "name": "Nolan Baumbach",
-    "group": "Schaefer - Farrell",
-    "room": "1882",
+    "name": "Tyrese Stehr",
+    "room": 5040,
+    "subject": "Hegmann - Stracke",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Bruce Gerhold",
-    "group": "Jast - Mann",
-    "room": "1360",
+    "name": "Allan Berge",
+    "room": 2800,
+    "subject": "Swaniawski, Roberts and Gibson",
+    "group": "♣️",
     "isStudent": true
   },
   {
-    "name": "Marion Botsford",
-    "group": "Morar, Zulauf and Corkery",
-    "room": "1259",
-    "isStudent": true
+    "name": "Mariano Raynor",
+    "room": 2328,
+    "subject": "Schowalter - Greenfelder",
+    "group": "♠️",
+    "isStudent": false
   },
   {
-    "name": "Loy Jones",
-    "group": "Gislason, Flatley and Rau",
-    "room": "1179",
-    "isStudent": true
+    "name": "Jasen Bartell",
+    "room": 5057,
+    "subject": "Runolfsson Group",
+    "group": "♥️",
+    "isStudent": false
+  },
+  {
+    "name": "Sydnee Kub",
+    "room": 4763,
+    "subject": "Predovic - Jones",
+    "group": "♥️",
+    "isStudent": false
+  },
+  {
+    "name": "Marcella Koss",
+    "room": 3447,
+    "subject": "Hudson, Borer and Rogahn",
+    "group": "♦️",
+    "isStudent": false
   }
 ]
