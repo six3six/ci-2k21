@@ -1,131 +1,130 @@
 {{ define "main" }}
     <section>
 
-        <div class="max-w-7xl mx-auto py-6 px-4 sm:text-xl:px-8 mt-11">
+        <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8 mt-6">
             <div class="flex flex-col">
                 <h1 class="leading-relaxed text-6xl font-bold text-gray-900">{{ .Name }}</h1>
             </div>
 
-            <div class="overflow-x-scroll xl:overflow-hidden">
-                <table class="timetable uk-table uk-table-small uk-table-divider uk-table-responsive uk-table-justify">
-                    <tbody>
-                        <tr>
-                            <td>
-                                <div class="uk-tile uk-tile-secondary uk-padding-small uk-text-center">
-                                    <h4>Lundi</h4>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <div style="float: left"><p class="uk-margin-remove-top uk-margin-remove-bottom "><i>9:00 - 10:00 </i></p></div>
-                                    <div style="float: right"><h4 class="uk-margin-remove-top">WOD</h4></div>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                        <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>10:00 - 11:00 </i></p>
-                                        <h4 class="uk-margin-remove-top">WOD</h4>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                        <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>12:30 - 13:30 </i></p>
-                                        <h4 class="uk-margin-remove-top">WOD</h4>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                        <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>17:00 - 18:00 </i></p>
-                                        <h4 class="uk-margin-remove-top">WOD</h4>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                        <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>18:00 - 19:00 </i></p>
-                                        <h4 class="uk-margin-remove-top">WOD</h4>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                        <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>19:00 - 20:00 </i></p>
-                                        <h4 class="uk-margin-remove-top">WOD</h4>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                        <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>20:00 - 21:00 </i></p>
-                                        <h4 class="uk-margin-remove-top">WOD</h4>
-                                </div>
-                            </td>
-                            <td>
-                                <div class="uk-tile uk-tile-secondary uk-padding-small uk-margin-small uk-text-center">
-                                    <h4>Mardi</h4>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <h4 class="uk-margin-remove-bottom">Kurs Di 1</h4>
-                                    <p class="uk-margin-remove-top"><i>9:00 - 10:00 </i></p>
-                                    <p>Anne</p>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <h4 class="uk-margin-remove-bottom">Kurs Di 2</h4>
-                                    <p class="uk-margin-remove-top"></p><i>11:00 - 12:00 </i>
-                                    <p>Diana</p>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <h4 class="uk-margin-remove-bottom">Kurs Di 3</h4>
-                                    <p class="uk-margin-remove-top"></p><i>13:00 - 14:00 </i>
-                                    <p>Doris</p>
-                                </div>
-                            </td>
-                            <td>
-                                <div class="uk-tile uk-tile-secondary uk-padding-small uk-margin-small uk-text-center">
-                                    <h4>Mercredi</h4>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <h4 class="uk-margin-remove-bottom">Kurs Mi 1</h4>
-                                    <p class="uk-margin-remove-top"><i>9:00 - 10:00 </i></p>
-                                    <p>Anne</p>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <h4 class="uk-margin-remove-bottom">Kurs Mi 2</h4>
-                                    <p class="uk-margin-remove-top"></p><i>11:00 - 12:00 </i>
-                                    <p>Diana</p>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <h4 class="uk-margin-remove-bottom">Kurs Mi 3</h4>
-                                    <p class="uk-margin-remove-top"></p><i>13:00 - 14:00 </i>
-                                    <p>Doris</p>
-                                </div>
-                            </td>
-                            <td>
-                                <div class="uk-tile uk-tile-secondary uk-padding-small uk-margin-small uk-text-center">
-                                    <h4>Jeudi</h4>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>9:00 - 10:00 </i></p>
-                                    <h4 class="uk-margin-remove-top">WOD</h4>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <h4 class="uk-margin-remove-bottom">Kurs Do 2</h4>
-                                    <p class="uk-margin-remove-top"></p><i>11:00 - 12:00 </i>
-                                    <p>Diana</p>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <h4 class="uk-margin-remove-bottom">Kurs Do 3</h4>
-                                    <p class="uk-margin-remove-top"></p><i>13:00 - 14:00 </i>
-                                    <p>Doris</p>
-                                </div>
-                            </td>
-                            <td>
-                                <div class="uk-tile uk-tile-secondary uk-padding-small uk-margin-small uk-text-center">
-                                    <h4>Vendredi</h4>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <h4 class="uk-margin-remove-bottom">Kurs Fr 1</h4>
-                                    <p class="uk-margin-remove-top"><i>9:00 - 10:00 </i></p>
-                                    <p>Anne</p>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <h4 class="uk-margin-remove-bottom">Kurs Fr 2</h4>
-                                    <p class="uk-margin-remove-top"></p><i>11:00 - 12:00 </i>
-                                    <p>Diana</p>
-                                </div>
-                                <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
-                                    <h4 class="uk-margin-remove-bottom">Kurs Fr 3</h4>
-                                    <p class="uk-margin-remove-top"></p><i>13:00 - 14:00 </i>
-                                    <p>Doris</p>
-                                </div>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
+            <table class="timetable uk-table uk-table-small uk-table-divider uk-table-responsive uk-table-justify">
+                <tbody>
+                <tr>
+                    <td>
+                        <div class="uk-tile uk-tile-secondary uk-padding-small uk-text-center">
+                            <h4>Lundi</h4>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <div style="float: left"><p class="uk-margin-remove-top uk-margin-remove-bottom "><i>9:00 -
+                                        10:00 </i></p></div>
+                            <div style="float: right"><h4 class="uk-margin-remove-top">WOD</h4></div>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>10:00 - 11:00 </i></p>
+                            <h4 class="uk-margin-remove-top">WOD</h4>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>12:30 - 13:30 </i></p>
+                            <h4 class="uk-margin-remove-top">WOD</h4>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>17:00 - 18:00 </i></p>
+                            <h4 class="uk-margin-remove-top">WOD</h4>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>18:00 - 19:00 </i></p>
+                            <h4 class="uk-margin-remove-top">WOD</h4>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>19:00 - 20:00 </i></p>
+                            <h4 class="uk-margin-remove-top">WOD</h4>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>20:00 - 21:00 </i></p>
+                            <h4 class="uk-margin-remove-top">WOD</h4>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="uk-tile uk-tile-secondary uk-padding-small uk-margin-small uk-text-center">
+                            <h4>Mardi</h4>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <h4 class="uk-margin-remove-bottom">Kurs Di 1</h4>
+                            <p class="uk-margin-remove-top"><i>9:00 - 10:00 </i></p>
+                            <p>Anne</p>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <h4 class="uk-margin-remove-bottom">Kurs Di 2</h4>
+                            <p class="uk-margin-remove-top"></p><i>11:00 - 12:00 </i>
+                            <p>Diana</p>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <h4 class="uk-margin-remove-bottom">Kurs Di 3</h4>
+                            <p class="uk-margin-remove-top"></p><i>13:00 - 14:00 </i>
+                            <p>Doris</p>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="uk-tile uk-tile-secondary uk-padding-small uk-margin-small uk-text-center">
+                            <h4>Mercredi</h4>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <h4 class="uk-margin-remove-bottom">Kurs Mi 1</h4>
+                            <p class="uk-margin-remove-top"><i>9:00 - 10:00 </i></p>
+                            <p>Anne</p>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <h4 class="uk-margin-remove-bottom">Kurs Mi 2</h4>
+                            <p class="uk-margin-remove-top"></p><i>11:00 - 12:00 </i>
+                            <p>Diana</p>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <h4 class="uk-margin-remove-bottom">Kurs Mi 3</h4>
+                            <p class="uk-margin-remove-top"></p><i>13:00 - 14:00 </i>
+                            <p>Doris</p>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="uk-tile uk-tile-secondary uk-padding-small uk-margin-small uk-text-center">
+                            <h4>Jeudi</h4>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <p class="uk-margin-remove-top uk-margin-remove-bottom "><i>9:00 - 10:00 </i></p>
+                            <h4 class="uk-margin-remove-top">WOD</h4>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <h4 class="uk-margin-remove-bottom">Kurs Do 2</h4>
+                            <p class="uk-margin-remove-top"></p><i>11:00 - 12:00 </i>
+                            <p>Diana</p>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <h4 class="uk-margin-remove-bottom">Kurs Do 3</h4>
+                            <p class="uk-margin-remove-top"></p><i>13:00 - 14:00 </i>
+                            <p>Doris</p>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="uk-tile uk-tile-secondary uk-padding-small uk-margin-small uk-text-center">
+                            <h4>Vendredi</h4>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <h4 class="uk-margin-remove-bottom">Kurs Fr 1</h4>
+                            <p class="uk-margin-remove-top"><i>9:00 - 10:00 </i></p>
+                            <p>Anne</p>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <h4 class="uk-margin-remove-bottom">Kurs Fr 2</h4>
+                            <p class="uk-margin-remove-top"></p><i>11:00 - 12:00 </i>
+                            <p>Diana</p>
+                        </div>
+                        <div class="uk-tile uk-tile-primary uk-padding-small uk-margin-small">
+                            <h4 class="uk-margin-remove-bottom">Kurs Fr 3</h4>
+                            <p class="uk-margin-remove-top"></p><i>13:00 - 14:00 </i>
+                            <p>Doris</p>
+                        </div>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
         </div>
     </section>
 {{ end }}
