@@ -28,7 +28,7 @@ table#planning td h3 {
 }
 
 table#planning tbody th {
-    @apply transform -translate-y-1/2 py-2 pr-2
+    @apply transform -translate-y-1/2 py-2 pr-2 text-base
 }
 
 table#planning tr:nth-child(2n) th {
