@@ -19,3 +19,27 @@ nav .active {
 .username {
     @apply text-blue-800 font-bold
 }
+
+#planning div h3 {
+    @apply text-center text-3xl font-semibold text-white m-5
+}
+
+.event {
+    @apply flex flex-col p-3 space-y-5 rounded-xl border border-black bg-white shadow-md mb-4
+}
+
+.event span {
+    @apply text-base
+}
+
+.event h4 {
+    @apply text-3xl font-bold
+}
+
+.event p {
+    @apply font-normal text-gray-700 m-0
+}
+
+.tooltip {
+    @apply bg-yellow-600 text-white font-semibold px-3 py-1 rounded-md
+}
