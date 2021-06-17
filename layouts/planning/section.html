@@ -5,133 +5,44 @@
             <div class="flex flex-col">
                 <h1 class="leading-relaxed text-6xl font-bold text-gray-900">{{ .Name }}</h1>
             </div>
+        </div>
 
+
+        <div style="max-width: 90rem" class="mx-auto py-6 px-4 sm:px-6 lg:px-8 mt-6">
             <div id="planning" class="mt-6 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-5 gap-4">
 
-                <div>
-                    <div class="border rounded-lg bg-gray-800 mb-4 shadow shadow-lg">
-                        <h3>Lundi</h3>
+                {{ range $.Site.Data.planning.days }}
+                    <div>
+                        <div class="border rounded-lg bg-gray-800 mb-4 shadow shadow-lg">
+                            <h3>{{ title . }}</h3>
+                        </div>
+
+                        {{ range index $.Site.Data.planning.events . }}
+                            {{ template "event" . }}
+                        {{ end }}
+
                     </div>
-
-                    <div class="event">
-                        <span>
-                            8h00 - 9h00
-                        </span>
-                        <h4>
-                            Welcome !
-                        </h4>
-                        <p>
-                            Un moment pour vous présenter cette semaine hors-norme.
-                        </p>
-
-                        <section class="flex justify-end">
-                            <span class="tooltip">Amph. M.D.</span>
-                        </section>
-                    </div>
-
-                    <div class="event">
-                        <span>
-                            9h00 - 12h00
-                        </span>
-                        <h4>
-                            Présentation
-                        </h4>
-
-                        <section class="flex justify-end">
-                            <span class="tooltip">La rue</span>
-                        </section>
-                    </div><div class="event">
-                        <span>
-                            12h00 - 13h00
-                        </span>
-                        <h4>
-                            Pause
-                        </h4>
-                        <p>
-                            C'est là qu'on mange.
-                        </p>
-
-                        <section class="flex justify-end">
-                            <span class="tooltip">Dehors</span>
-                        </section>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="border rounded-lg bg-gray-800 mb-4 shadow shadow-lg">
-                        <h3>Mardi</h3>
-                    </div>
-
-                    <div class="event">
-                        <span>
-                            8h00 - 12h00
-                        </span>
-                        <h4>
-                            La Perf'
-                        </h4>
-                        <p>
-                            Votre perfomance de l'année.
-                        </p>
-
-                        <section class="flex justify-end">
-                            <span class="tooltip">ESIEE</span>
-                        </section>
-                    </div>
-
-                    <div class="event">
-                        <span>
-                            12h00 - 14h00
-                        </span>
-                        <h4>
-                            Administratif
-                        </h4>
-                        <p>
-                            On fait des trucs chiants.
-                        </p>
-
-                        <section class="flex justify-end">
-                            <span class="tooltip">ESIEE</span>
-                        </section>
-                    </div>
-
-                    <div class="event">
-                        <span>
-                            18h00 - 22h00
-                        </span>
-                        <h4>
-                            After Work
-                        </h4>
-                        <p>
-                            On boit un coup entre collègues.
-                        </p>
-
-                        <section class="flex justify-end">
-                            <span class="tooltip">Amph. M.D.</span>
-                        </section>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="border rounded-lg bg-gray-800 mb-4 shadow shadow-lg">
-                        <h3>Mercredi</h3>
-                    </div>
-
-                </div>
-
-                <div>
-                    <div class="border rounded-lg bg-gray-800 mb-4 shadow shadow-lg">
-                        <h3>Jeudi</h3>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="border rounded-lg bg-gray-800 mb-4 shadow shadow-lg">
-                        <h3>Vendredi</h3>
-                    </div>
-
-                </div>
+                {{ end }}
 
             </div>
         </div>
     </section>
+{{ end }}
+
+{{ define "event" }}
+    <div class="event">
+        <span>
+            {{ .start_at }} - {{ .end_at }}
+        </span>
+        <h4>
+            {{ .title }}
+        </h4>
+        <p>
+            {{ .description }}
+        </p>
+
+        <section class="flex justify-end">
+            <span class="tooltip bg-{{ .color }}-600">{{ .location }}</span>
+        </section>
+    </div>
 {{ end }}

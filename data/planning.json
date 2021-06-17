@@ -1,0 +1,30 @@
+{
+  "days": ["lundi", "mardi", "mercredi", "jeudi", "vendredi"],
+  "events": {
+    "lundi": [
+      {
+        "title": "Welcome !",
+        "description": "Pour vous expliquer un peu cette semaine particulière.",
+        "location": "Amph. M.D.",
+        "color": "blue",
+        "start_at": "08:00",
+        "end_at": "09:00"
+      }
+    ],
+    "mardi": [
+      {
+        "title": "La Perf'",
+        "description": "Votre performance de l'année.",
+        "location": "Salles",
+        "color": "green",
+        "start_at": "14:00",
+        "end_at": "18:00"
+      }
+    ],
+    "mercredi": [],
+    "jeudi": [],
+    "vendredi": [],
+    "samedi": [],
+    "dimanche": []
+  }
+}
