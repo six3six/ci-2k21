@@ -20,7 +20,7 @@ nav .active {
     @apply text-blue-800 font-bold
 }
 
-#planning div h3 {
+#planning section header h3 {
     @apply text-center text-3xl font-semibold text-white m-5
 }
 
@@ -42,4 +42,8 @@ nav .active {
 
 .tooltip {
     @apply text-white font-semibold px-3 py-1 rounded-md
+}
+
+.today {
+    @apply bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500
 }
