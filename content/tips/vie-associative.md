@@ -10,9 +10,9 @@ Durant cette année, on espère que vous pourrez constater à quel point l'ESIEE
 l'école mais aussi sur celle du campus de Gustave Eiffel. Alors oui c'est synonyme de grosses soirées mémorables, mais
 pas que !
 
-## Le BDE
+## Le Bureau des Étudiants
 
-Cette année vous aurez la chance d'avoir les dieux grecs avec vous : Xanthos, le BDE du mandat 2021-2022 remplace le
+Cette année vous aurez la chance d'avoir les dieux grecs avec vous : Xanthos est le BDE du mandat 2021-2022 remplace le
 regretté Nova qui aura officié durant l'épidémie. A l'ESIEE Paris, le BDE est le principal organe de représentation des
 étudiants dans l’école.
 
@@ -21,6 +21,13 @@ Sa mission est triple :
 - Porter l’associatif en renforçant et en gérant la vingtaine de clubs et associations de l’école.
 - Faire vivre l’école en organisant des activités extra-scolaires (soirées, sorties culturelles et sportives).
 - Être le principal interlocuteur entre l’administration et les élèves.
+
+## Le Bureau Des Sports
+
+Le BDS est un relais entre les étudiants de l’ESIEE Paris et le service des sports, il prend en charges plus d'une
+trentaine de sports en organisant tout ce qui concernent la vie sportives à l’ESIEE. Il organise et communique sur les 
+événements auxquels l'ESIEE participe. De même, le BDS communique sur les réseaux sociaux les résultats de ses
+équipes aux quotidiens.
 
 ## Les clubs
 

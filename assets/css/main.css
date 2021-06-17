@@ -15,3 +15,7 @@ nav .active {
 .prose img {
     margin: auto;
 }
+
+.username {
+    @apply text-blue-800 font-bold
+}
