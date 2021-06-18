@@ -7,7 +7,8 @@ nav .active {
 }
 
 nav #mobile-menu {
-    @apply fixed z-10 w-full bg-gray-800 rounded-b duration-300 -left-full
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    @apply fixed z-10 w-full bg-gray-800 rounded-b-lg duration-300 -left-full
 }
 
 nav #mobile-menu.open {
