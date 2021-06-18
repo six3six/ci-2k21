@@ -6,6 +6,14 @@ nav .active {
     @apply bg-gray-900 text-white !important
 }
 
+nav #mobile-menu {
+    @apply fixed z-10 w-full bg-gray-800 rounded-b duration-300 -left-full
+}
+
+nav #mobile-menu.open {
+    left: 0 !important;
+}
+
 #search {
     background: url("/img/search.svg") 12px center no-repeat;
     background-size: 17px;

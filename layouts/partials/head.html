@@ -5,15 +5,20 @@
 <link rel="icon" type="image/png" href="/img/icons/icon-72x72.png">
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 
+
 <title>{{ .Site.Title }} :: {{ .Title }}</title>
 
 {{ $styles := resources.Get "css/main.css" | resources.PostCSS }}
+{{ $js := resources.Get "js/index.js" }}
 
 {{ if hugo.IsProduction }}
     {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
+    {{ $js = $js | fingerprint }}
     <link href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" rel="stylesheet"/>
+    <script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 {{ else }}
     <link href="{{ $styles.RelPermalink }}" rel="stylesheet"/>
+    <script defer src="{{ $js.RelPermalink }}"></script>
 {{ end }}
 
 
