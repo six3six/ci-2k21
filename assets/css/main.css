@@ -8,11 +8,11 @@ nav .active {
 
 nav #mobile-menu {
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-    @apply fixed z-10 w-full bg-gray-800 rounded-b-lg duration-300 -left-full
+    @apply fixed z-10 w-full bg-gray-800 rounded-b-lg duration-300 transform -translate-x-full
 }
 
 nav #mobile-menu.open {
-    left: 0 !important;
+    @apply translate-x-0
 }
 
 #search {
