@@ -13,7 +13,7 @@ pas que !
 ## Le Bureau des Étudiants
 
 Cette année vous aurez la chance d'avoir les dieux grecs avec vous : Xanthos est le BDE du mandat 2021-2022 remplace le
-regretté Nova qui aura officié durant l'épidémie. A l'ESIEE Paris, le BDE est le principal organe de représentation des
+~~regretté~~ Nova qui aura officié durant l'épidémie. A l'ESIEE Paris, le BDE est le principal organe de représentation des
 étudiants dans l’école.
 
 Sa mission est triple :
@@ -33,7 +33,7 @@ trentaine de sports en organisant tout ce qui concernent la vie sportives à l�
 
 Eh oui, à l'ESIEE on a une grande vie associative et de nombreux clubs de toutes les tailles et pour tous les goûts.
 
-### ESIEE Space
+### ESIEESPACE
 
 Des fous d'électronique et de programmation, ils fabriquent eux-mêmes ce dont ils ont besoin pour créer sumo-bots,
 fusées et tous autres gadgets lumineux. Leurs tutos ne sont pas forcément clairs, mais on les aime quand même. Elle lieu
@@ -58,7 +58,7 @@ interne. Ouvert presque tout le temps, c'est surtout les jeudis après-midi qui 
 
 ### Club NIX
 
-Ils te fournissent un Wifi de qualité et gratuitement. En plus, ils t'aident pour tes contrôles en informatique.
+~~Ils te fournissent un Wifi de qualité et gratuitement~~. En plus, ils t'aident pour tes contrôles en informatique.
 Conclusion : c'est des boss à l'état pur. Nix réunit tous les amateurs de logiciels libres ou toute personne souhaitant
 apprendre à utiliser Linux.
 
