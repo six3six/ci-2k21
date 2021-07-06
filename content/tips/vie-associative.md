@@ -13,7 +13,7 @@ pas que !
 ## Le Bureau des Étudiants
 
 Cette année vous aurez la chance d'avoir les dieux grecs avec vous : Xanthos est le BDE du mandat 2021-2022 remplace le
-regretté Nova qui aura officié durant l'épidémie. A l'ESIEE Paris, le BDE est le principal organe de représentation des
+~~regretté~~ Nova qui aura officié durant l'épidémie. A l'ESIEE Paris, le BDE est le principal organe de représentation des
 étudiants dans l’école.
 
 Sa mission est triple :
