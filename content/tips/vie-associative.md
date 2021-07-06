@@ -29,6 +29,12 @@ trentaine de sports en organisant tout ce qui concernent la vie sportives à l�
 événements auxquels l'ESIEE participe. De même, le BDS communique sur les réseaux sociaux les résultats de ses
 équipes aux quotidiens.
 
+## Les associations
+
+### ESIEE Sans Frontière
+
+ESIEE Sans Frontières est l'association humanitaire de l'ESIEE Paris. Cette association a pour but de mener des projets humanitaires en organisant des événements aux soirées de l'école, le Téléthon et plus encore...
+
 ### ESIEESPACE
 
 Des fous d'électronique et de programmation, ils fabriquent eux-mêmes ce dont ils ont besoin pour créer sumo-bots,
@@ -147,11 +153,6 @@ Grâce à ce club, découvrez les coulisses d'une soirée étudiante ainsi que l
 
 Platinistes, DJs ... se retrouvent chez La Sono. Avec du matériel professionnel et des soirées tous les mois, 
 si vous êtes attirés par l'animation des événements de l'école, here we are and you're welcome !
-
-### Club ESF
-
-ESIEE Sans Frontières est l'association humanitaire de l'ESIEE Paris. 
-Cette association a pour but de mener des projets humanitaires en organisant des événements aux soirées de l'école, le Téléthon et plus encore...
 
 ### Club Héra
 
