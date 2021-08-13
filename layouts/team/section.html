@@ -4,7 +4,7 @@
     <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
         <div class="pt-8 md:pt-20 flex flex-col items-center">
             <h1 class="mt-4 leading-relaxed text-6xl font-bold text-gray-900">La Team</h1>
-            <p class="text-center">Ils sont beaux, ils sont jeunes et ils ont tous contribués à votre semaine.</p>
+            <p class="text-center">Ils sont beaux, ils sont jeunes et ils ont tous contribué à votre semaine.</p>
         </div>
 
         <div class="grid grid-cols-2 lg:grid-cols-5 md:grid-cols-3 gap-8 mt-16">
@@ -17,7 +17,8 @@
                 <picture>
                     <source srcset="{{ $path }}.webp" type="image/webp">
                     <source srcset="{{ $path }}.jpg" type="image/jpeg">
-                    <img width="112" height="112" alt="Photo de {{ .name }}" class="w-28 rounded-full mb-4" src="{{ $path }}.jpg">
+                    <img alt="Photo de {{ .name }}" class="w-28 rounded-full mb-4" height="112" src="{{ $path }}.jpg"
+                         width="112">
                 </picture>
 
                 <span>{{ .name }}</span>
