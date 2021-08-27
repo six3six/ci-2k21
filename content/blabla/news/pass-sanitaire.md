@@ -8,7 +8,7 @@ date: 2021-08-27
 
 # Le pass sanitaire et le CI
 
-Cette page à pour but de vous tenir au courant à propos de la nécessité d'avoir le pass sanitaire durant cette semaine
+Cette page a pour but de vous tenir au courant à propos de la nécessité d'avoir le pass sanitaire durant cette semaine
 d'intégration et, plus globalement, pour votre vie étudiante.
 
 Les arrêtés gouvernementaux liés au covid sont tombés récemment : **le Pass Sanitaire sera obligatoire pour les 
@@ -18,7 +18,7 @@ activités de la semaine pour les nouveaux et les intégrants**. Il faut bien co
 
 Le « pass sanitaire » consiste en la présentation d'une preuve sanitaire, parmi les trois suivantes :
 
-- La vaccination, à la condition le schéma vaccinal soit complet et que le délai de 7 jours soient passé.
+- La vaccination, à la condition que le schéma vaccinal soit complet et que le délai de 7 jours soit passé.
 - La preuve d'un test (RT-PCR, antigéniques et désormais les autotests sous la supervision de professionnels) négatif de moins de 72h.
 - Le résultat d'un test RT-PCR ou antigénique positif attestant du rétablissement de la Covid-19, datant d'au moins 11 jours et de moins de 6 mois.
 
@@ -33,6 +33,5 @@ La [pharmacie Descartes](https://www.openstreetmap.org/node/2792744296#map=17/48
 Le gouvernement à crée un site répondant à absolument toutes les questions sur le pass sanitaire, même celles que l'on
 ne se pose pas. [N'hésitez pas à le consulter ici](https://www.gouvernement.fr/info-coronavirus/pass-sanitaire).
 
-**N'oubliez pas d'emporter avec vous votre preuve sanitaire, sous forme numérique ou papier**.
 
 Gros bisous sanitaires, le Comité d'Intégration.
