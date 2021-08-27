@@ -1,4 +1,5 @@
 baseURL = "https://ci-2k21.helloedit.eu"
 languageCode = "fr-fr"
+defaultContentLanguage = 'fr'
 title = "CI 2k21"
 sectionPagesMenu = "main"
