@@ -11,7 +11,8 @@ date: 2021-08-27
 Cette page à pour but de vous tenir au courant à propos de la nécessité d'avoir le pass sanitaire durant cette semaine
 d'intégration et, plus globalement, pour votre vie étudiante.
 
-Les arrêtés gouvernementaux liés au covid sont tombés récemment : **le Pass Sanitaire sera obligatoire pour les activité de la semaine pour les nouveaux et les intégrants**. Il faut bien comprendre ici que pas de pass veut dire pas d'intégration digne de ce nom.
+Les arrêtés gouvernementaux liés au covid sont tombés récemment : **le Pass Sanitaire sera obligatoire pour les 
+activités de la semaine pour les nouveaux et les intégrants**. Il faut bien comprendre ici que pas de pass veut dire pas d'intégration digne de ce nom.
 
 ## Qu'est ce que le pass sanitaire ?
 
@@ -27,6 +28,11 @@ Si vous possédez une de ces trois preuves, félicitations ! Vous pourrez passez
 
 La [pharmacie Descartes](https://www.openstreetmap.org/node/2792744296#map=17/48.84321/2.58607) à côté d'Ampère en fait. 
 
+## J'ai beaucoup de questions sur le pass sanitaire, puis-je abuser de votre temps ?
+
+Le gouvernement à crée un site répondant à absolument toutes les questions sur le pass sanitaire, même celles que l'on
+ne se pose pas. [N'hésitez pas à le consulter ici](https://www.gouvernement.fr/info-coronavirus/pass-sanitaire).
+
 **N'oubliez pas d'emporter avec vous votre preuve sanitaire, sous forme numérique ou papier**.
 
-Gros bisous, le Comité d'Intégration.
+Gros bisous sanitaires, le Comité d'Intégration.
