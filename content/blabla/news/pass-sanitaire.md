@@ -1,6 +1,7 @@
 ---
-title: A propos du pass sanitaire... description: Toutes les informations que vous avez besoin de savoir car l'on ne
-peut pas y couper non plus date: 2021-08-27
+title: A propos du pass sanitaire...
+description: Toutes les informations que vous avez besoin de savoir car l'on ne peut pas y couper non plus
+date: 2021-08-27
 ---
 
 ![Avez-vous pensé au pass sanitaire ?](/img/pass-party.jpg)

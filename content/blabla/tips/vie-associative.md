@@ -1,6 +1,7 @@
 ---
-title: La vie associative de l'ESIEE Paris breadcrumb: La vie associative description: Parce qu'étudier c'est bien, mais
-s'amuser c'est mieux.
+title: La vie associative de l'ESIEE Paris 
+breadcrumb: La vie associative 
+description: Parce qu'étudier c'est bien, mais s'amuser c'est mieux.
 ---
 
 # La vie associative de l'ESIEE Paris
